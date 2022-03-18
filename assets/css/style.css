@@ -10,16 +10,17 @@ body {
     font-family: "Brygada 1918", sans-serif;
     font-weight: 300;
     color: black;
-    background-color: silver;
+    background-color: #9a9a9a;
 }
 
 /* logo top */
 
 #logo1 {
     float: left;
-    background-color: silver;
-    height: 75px;
+    background-color: #9a9a9a;
+    height: 60px;
     width: 150px;
+    margin-left: 30px;
 }
 
 /* navigation links */
@@ -37,7 +38,7 @@ body {
 }
 
 #menu {
-    line-height: 70px;
+    line-height: 80px;
 }
 
 #menu a {
@@ -98,8 +99,28 @@ body {
     background-color: rgba(255, 76, 60, 0.9);
 
     bottom: 30px;
-    left: 100px;
+    left: 200px;
 
     position: absolute;
 
+}
+
+/* Past History */
+
+#past {
+    height: 600px;
+}
+
+#past-left {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: blue;
+}
+
+#past-right {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    background-color: red;
 }
