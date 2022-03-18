@@ -18,8 +18,8 @@ body {
 #logo1 {
     float: left;
     background-color: silver;
-    height: 100px;
-    width: 250px;
+    height: 75px;
+    width: 150px;
 }
 
 /* navigation links */
@@ -37,7 +37,7 @@ body {
 }
 
 #menu {
-    line-height: 75px;
+    line-height: 70px;
 }
 
 #menu a {
@@ -57,26 +57,49 @@ body {
 
 /* palace image */
 
-#saxon-outer {
+#saxon-halfhalf-outer {
     height: 500px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
 }
 
-#saxon-image {
+#saxon-halfhalf-image {
     height: 500px;
     width: 100%;
     background: url(../images/saxon-halfhalf.jpg) no-repeat center center;
-    animation-name: saxon-zoom;
+    animation-name: saxon-halfhalf-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
-@keyframes saxon-zoom {
+@keyframes saxon-halfhalf-zoom {
     from {
         transform: scale(1);
     }
     to {
         transform: scale(1.1);
     }
+}
+
+
+#cover-text {
+    color: #000;
+    font-size: 150%;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(255, 76, 60, 0.9);
+
+    bottom: 30px;
+    left: 100px;
+
+    position: absolute;
+
 }
