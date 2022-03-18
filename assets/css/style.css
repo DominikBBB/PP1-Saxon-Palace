@@ -10,14 +10,14 @@ body {
     font-family: "Brygada 1918", sans-serif;
     font-weight: 300;
     color: black;
-    background-color: red;
+    background-color: silver;
 }
 
 /* logo top */
 
 #logo1 {
     float: left;
-    background-color: gray;
+    background-color: silver;
     height: 100px;
     width: 250px;
 }
@@ -25,8 +25,8 @@ body {
 /* navigation links */
 
 #menu{
-    font-size: 110%;
-    letter-spacing: 4px;
+    font-size: 90%;
+    letter-spacing: 2px;
     float: right;
 }
 
@@ -46,9 +46,37 @@ body {
 }
 
 #menu a:hover {
+    border-top: 1px solid #3a3a3a;
     border-bottom: 1px solid #3a3a3a;
 }
 
 .active {
+    border-top: 1px solid #3a3a3a;
     border-bottom: 1px solid #3a3a3a;
+}
+
+/* palace image */
+
+#saxon-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#saxon-image {
+    height: 500px;
+    width: 100%;
+    background: url(../images/saxon-halfhalf.jpg) no-repeat center center;
+    animation-name: saxon-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes saxon-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
