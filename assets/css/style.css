@@ -13,6 +13,22 @@ body {
     background-color: #9a9a9a;
 }
 
+img {
+    border: 1px solid #000;
+}
+
+/* header */
+
+header {
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    background-color: #9a9a9a;
+    top: 0;
+    right: 0;
+    z-index: 2;
+}
+
 /* logo top */
 
 #logo1 {
@@ -21,6 +37,7 @@ body {
     height: 60px;
     width: 150px;
     margin-left: 150px;
+    border: none;
 }
 
 /* navigation links */
@@ -29,10 +46,12 @@ body {
     font-size: 90%;
     letter-spacing: 2px;
     line-height: 80px;
+    text-align: center;
 }
 
 #menu li {
-    float: left;
+    /* float: left; */
+    display: inline-block;
     list-style-type: none;
     margin-right: 20px;
 }
@@ -63,6 +82,7 @@ body {
 }
 
 #saxon-halfhalf-image {
+    margin-top: 95px;
     height: 600px;
     width: 100%;
     background: url(../images/saxon-halfhalf.jpg) no-repeat center center;
@@ -115,7 +135,7 @@ section div {
 }
 
 section div img {
-    display:block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
@@ -125,6 +145,16 @@ section div img {
 
 
 
+
+
+
+
+
+/* Video */
+
+#video {
+    text-align: center;
+}
 
 
 /* Map */
@@ -143,18 +173,65 @@ section div img {
     width: 720px;
 }
 
-/* Footer */
+/* footer */
 
 footer {
     width: 100%;
-    height: 200px;
+    height: 60px;
     position: relative;
+    background-color: yellow;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 3;
 }
+
+.fbox {
+    display: inline-block;
+}
+
+#map_bottom {
+    margin-bottom: 60px;
+}
+
+.mapouter2 {
+    position: relative;
+    text-align: right;
+    margin-left: 150px;
+    height: 60px;
+    width: 150px;
+}
+
+.gmap_canvas2 {
+    overflow: hidden;
+    background: none !important;
+    height: 60px;
+    width: 150px;    
+}
+
+#social {
+    font-size: 90%;
+    letter-spacing: 2px;
+    line-height: 80px;
+    text-align: center;
+}
+
+#social li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#social a {
+    text-decoration: none;
+    color: inherit;
+}
+
 
 #logo2 {
     float: right;
     background-color: #9a9a9a;
     height: 60px;
     width: 150px;
-    margin-right: 100px;
+    border: none;    
 }
