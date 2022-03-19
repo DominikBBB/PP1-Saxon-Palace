@@ -25,7 +25,7 @@ body {
 
 /* navigation links */
 
-#menu{
+#menu {
     font-size: 90%;
     letter-spacing: 2px;
     float: right;
@@ -59,7 +59,7 @@ body {
 /* palace image */
 
 #saxon-halfhalf-outer {
-    height: 500px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
 
@@ -67,7 +67,7 @@ body {
 }
 
 #saxon-halfhalf-image {
-    height: 500px;
+    height: 600px;
     width: 100%;
     background: url(../images/saxon-halfhalf.jpg) no-repeat center center;
     animation-name: saxon-halfhalf-zoom;
@@ -79,6 +79,7 @@ body {
     from {
         transform: scale(1);
     }
+
     to {
         transform: scale(1.1);
     }
@@ -103,23 +104,29 @@ body {
     position: absolute;
 }
 
+/* History */
+
+.sections {}
+
 /* Past History */
 
-#past {
-    height: 600px;
+
+
+
+
+
+/* Map */
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 400px;
+    width: 720px;
 }
 
-#past-left {
-    padding-top: 30px;
-    width: 50%;
-    float: left;
-    background-color: blue;
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 400px;
+    width: 720px;
 }
-
-#past-right {
-    padding-top: 30px;
-    width: 50%;
-    float: right;
-    background-color: red;
-}
-
