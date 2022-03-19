@@ -84,7 +84,6 @@ body {
     }
 }
 
-
 #cover-text {
     color: #000;
     font-size: 150%;
@@ -94,15 +93,14 @@ body {
     height: 200px;
 
     padding-top: 40px;
-    padding-left: 10px;
+    padding-left: 15px;
 
     background-color: rgba(255, 76, 60, 0.9);
 
     bottom: 30px;
-    left: 200px;
+    left: 150px;
 
     position: absolute;
-
 }
 
 /* Past History */
@@ -124,3 +122,4 @@ body {
     float: right;
     background-color: red;
 }
+
