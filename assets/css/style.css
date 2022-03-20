@@ -9,7 +9,7 @@
 body {
     font-family: "Brygada 1918", sans-serif;
     font-weight: 300;
-    color: black;
+    color: ;
     background-color: #9a9a9a;
 }
 
@@ -29,37 +29,37 @@ figcaption {
     font-style: italic;
 }
 
-/* header */
+/* ---------------------------------------------- header */
 
 header {
     width: 100%;
     height: 60px;
     position: fixed;
-    background-color: #9a9a9a;
+    background-color: inherit;
     top: 0;
     right: 0;
     z-index: 2;
 }
 
-/* logo top */
+/* ---------------------------------------------- logo top */
 
 #logo1 {
     float: left;
     background-color: #9a9a9a;
     height: 60px;
     width: 150px;
-    margin-left: 285px;
+    margin-left: 20rem;
     border: none;
 }
 
-/* navigation links */
+/* ---------------------------------------------- navigation links */
 
 #menu {
     font-size: 90%;
     letter-spacing: 2px;
     line-height: 70px;
     text-align: center;
-    margin-right: 277px;
+    margin-right: 20rem;
     float: right;
 }
 
@@ -85,7 +85,7 @@ header {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* palace image */
+/* ---------------------------------------------- palace image */
 
 #saxon-halfhalf-outer {
     height: 600px;
@@ -134,7 +134,7 @@ header {
     position: absolute;
 }
 
-/* History */
+/* ---------------------------------------------- short facts history */
 
 .sections {
     max-width: 1076.9px;
@@ -154,24 +154,17 @@ section div img {
     margin-right: auto;
 }
 
-/* Past History */
 
 
 
-
-
-
-
-
-
-/* Video */
+/* ---------------------------------------------- video */
 
 #video {
     text-align: center;
 }
 
 
-/* Map */
+/* ---------------------------------------------- map */
 
 .mapouter {
     position: relative;
@@ -203,15 +196,10 @@ footer {
     z-index: 2;
 }
 
-.fbox {
-    /* display: inline-block; */
-}
-
 .mapouter2 {
-    /* position: relative; */
     float:left;
     text-align: right;
-    margin-left: 285px;
+    margin-left: 20rem;
     height: 60px;
     width: 150px;
 }
@@ -231,7 +219,7 @@ footer {
     line-height: 80px;
     /* text-align: center; */
     /* margin: 0 auto; */
-    border: 1px solid black;
+    border: 1px solid #000;
     /* width: 33%; */
 }
 
@@ -248,10 +236,61 @@ footer {
 
 #logo2 {
     float: right;
-    /* position: relative; */
-    margin-right: 285px;
+    margin-right: 20rem;
     background-color: #9a9a9a;
     height: 60px;
     width: 150px;
     border: none;    
 }
+
+/* ---------------------------------------------- timeline */
+
+#timeline-pic {
+    float: left;
+    background-color: #9a9a9a;
+    height: 60px;
+    width: 150px;
+    border: none; 
+}
+
+#timeline {
+    margin-top: 100px;
+    margin-left: 285px;
+}
+
+.timeline-item {
+    padding: 4em 2em 0em 2em;
+    position: relative;
+    color: #fafafa;
+    border-left: 1px solid;
+}
+
+.timeline-item p {
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-weight: 500;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:after {
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: "";
+    background: #fafafa;
+}
+
