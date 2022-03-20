@@ -19,7 +19,7 @@ div {
 
 img {
     border: 1px solid #000;
-    background-color: blue;
+    background-color: #9d433b;
 }
 
 figcaption {
@@ -137,7 +137,7 @@ header {
 /* ---------------------------------------------- short facts history */
 
 .sections {
-    max-width: 1076.9px;
+    max-width: 67.306rem;
     margin: 0 auto;
 }
 
@@ -164,13 +164,14 @@ section div img {
 }
 
 
-/* ---------------------------------------------- map */
+/* ---------------------------------------------- map big */
 
 .mapouter {
     position: relative;
     text-align: right;
     height: 400px;
     width: 720px;
+    /* margin: 0 auto; */
 }
 
 .gmap_canvas {
@@ -184,7 +185,7 @@ section div img {
     margin-bottom: 80px;
 }
 
-/* footer */
+/* ---------------------------------------------- footer */
 
 footer {
     width: 100%;
@@ -195,6 +196,8 @@ footer {
     right: 0;    
     z-index: 2;
 }
+
+/* ---------------------------------------------- map small */
 
 .mapouter2 {
     float:left;
@@ -210,6 +213,8 @@ footer {
     height: 60px;
     width: 150px;    
 }
+
+/* ---------------------------------------------- social links */
 
 #social {
     width: 300px;
@@ -234,6 +239,8 @@ footer {
     color: inherit;
 }
 
+/* ---------------------------------------------- logo bttm */
+
 #logo2 {
     float: right;
     margin-right: 20rem;
@@ -247,7 +254,7 @@ footer {
 
 #timeline-pic {
     float: left;
-    background-color: #9a9a9a;
+    background-color: #9d433b;
     height: 60px;
     width: 150px;
     border: none; 
@@ -255,7 +262,7 @@ footer {
 
 #timeline {
     margin-top: 100px;
-    margin-left: 285px;
+    margin-left: 25rem;
 }
 
 .timeline-item {
@@ -266,6 +273,7 @@ footer {
 }
 
 .timeline-item p {
+    max-width: 45rem;
     padding: 0;
     margin: 0;
 }
