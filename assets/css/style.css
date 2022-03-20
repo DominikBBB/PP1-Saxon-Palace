@@ -171,7 +171,8 @@ section div img {
     text-align: right;
     height: 400px;
     width: 720px;
-    /* margin: 0 auto; */
+    /* margin-left: 1px; */
+    padding: 0;
 }
 
 .gmap_canvas {
@@ -179,6 +180,8 @@ section div img {
     background: none !important;
     height: 400px;
     width: 720px;
+    /* margin-left: 3px; */
+    padding: 0;
 }
 
 #map_bottom {
@@ -257,7 +260,9 @@ footer {
     background-color: #9d433b;
     height: 60px;
     width: 150px;
-    border: none; 
+    border: none;
+    margin-top: 5px;
+    margin-right: 10px;
 }
 
 #timeline {
@@ -276,6 +281,7 @@ footer {
     max-width: 45rem;
     padding: 0;
     margin: 0;
+    font-size: 0.8em;
 }
 
 .timeline-item:before {
