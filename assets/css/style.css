@@ -341,9 +341,9 @@ footer {
 
 /* ---------------------------------------------- contact */
 
-
-
-
+.block-label {
+	display: block;
+}
 
 
 
