@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!-- Apple Touch link??? -->
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Old-New Saxon Palace in Warsaw, Poland">
     <meta name="keywords"
@@ -19,23 +19,24 @@
 
 <body>
     <header>
-        <a href="index.html">
-            <img src="assets/images/saski-new-pic.png"
-                alt="Logo of the new Saxon Palace with Polish national flag on top of the building" id="logo1">
-        </a>
+        <div><a href="index.html">
+                <img src="assets/images/saski-new-pic.png"
+                    alt="Logo of the new Saxon Palace with Polish national flag on top of the building" id="logo1">
+            </a>
+        </div>
         <nav>
             <ul id="menu">
                 <li>
-                    <a href="index.html" aria-label="Moving to the Main About page">About</a>
-                </li>
-                <li>
-                    <a href="z2-history.html" aria-label="Moving to the History page">History</a>
+                    <a href="z4-contact.html" aria-label="Moving to the Contact page">Contact</a>
                 </li>
                 <li>
                     <a href="z3-gallery.html" aria-label="Moving to the Gallery page">Gallery</a>
                 </li>
                 <li>
-                    <a href="z4-contact.html" class="active">Contact</a>
+                    <a href="z2-history.html" aria-label="Moving to the History page">History</a>
+                </li>
+                <li>
+                    <a href="index.html" class="active">About</a>
                 </li>
             </ul>
         </nav>
@@ -48,91 +49,34 @@
             </h2>
         </div>
 
-        <form action="https://formdump.codeinstitute.net" method="POST">
+        <section class="container-fluid">
+            <div class="row">
+                <div class="col">
+                    <h3 class="text-center">Contact form:</h3>
 
-            <fieldset>
+                    <div class="center-form">
+                        <form action="https://formdump.codeinstitute.net" method="POST"></form>
+                        <form>
+                            <input type="text" name="name" id="fullname" class="form-control"
+                                placeholder="Your Full Name" required />
+                            <input type="email" name="email" id="emailaddress" class="form-control"
+                                placeholder="Your Email" required />
+                            <textarea rows="5" name="ideasummary" id="ideasummary" class="form-control"></textarea>
+                            <div class="form-row text-center">
+                                <div class="col">
+                                    <button type="submit" class="btn btn-secondary">Send</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
 
-                <legend>Your details:</legend>
-                <div>
-                    <label for="name-field" class="block-label">Name:</label>
-                    <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
                 </div>
-
-            </fieldset>
-
-            <fieldset>
-
-                <div>
-                    <label for="email-field" class="block-label">Email:</label>
-                    <input id="email-field" type="email" name="email" placeholder="Your email" required>
-                </div>
-
-            </fieldset>
-
-            <fieldset>
-                <legend>What is it related to?</legend>
-                <div>
-                    <label for="reason-field" class="block-label">Reason:</label>
-                    <input id="reason-field" list="reasons" name="reason" required>
-                    <datalist id="reasons">
-                        <option value="Co-operation">
-                        <option value="2">
-                        <option value="3">
-                        <option value="4">
-                        <option value="Other">
-                    </datalist>
-                </div>
-            </fieldset>
-
-            <fieldset>
-                <legend>Your message:</legend>
-                <label for="message" class="block-label">Message:</label>
-                <br>
-                <textarea id="message" rows="4" cols="87" name="message" style="width: 645px"></textarea>
-            </fieldset>
-
-    </section>
-    <section>
-
-        <input type="submit" class="block-label" value="Send">
-        <input type="reset" value="Reset Form">
-    </section>
-
-
-    <footer>
-        <div class="mapouter2 fbox">
-            <div class="gmap_canvas2">
-                <iframe width="150" height="60" id="gmap_canvas"
-                    src="https://maps.google.com/maps?q=Tomb%20of%20the%20Unknown%20Soldier,%20warsaw&t=&z=13&ie=UTF8&iwloc=&output=embed"
-                    frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
             </div>
-        </div>
+        </section>
 
-        <!-- <div id="social" class="fbox">
-            <ul>
-                <li>
-                    <a href="https://facebook.com" target="_blank" rel="noopener"
-                        aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook"></i></a>
-                </li>
-                <li>
-                    <a href="https://twitter.com" target="_blank" rel="noopener"
-                        aria-label="Visit our Twitter page (opens in a new tab)"><i
-                            class="fab fa-twitter-square"></i></a>
-                </li>
-                <li>
-                    <a href="https://instagram.com" target="_blank" rel="noopener"
-                        aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
-                </li>
-            </ul>
-        </div> -->
+        <footer>
 
-        <div class="fbox">
-            <a href="index.html">
-                <img src="assets/images/saski-new-pic.png"
-                    alt="Logo of the new Saxon Palace with Polish national flag on top of the building" id="logo2">
-            </a>
-        </div>
-    </footer>
+        </footer>
 </body>
 
 </html>
