@@ -202,9 +202,9 @@ footer {
 /* ---------------------------------------------- map small */
 
 .mapouter2 {
-    float:left;
-    text-align: right;
-    margin-left: 20rem;
+    float: right;
+    /* text-align: right; */
+    margin-right: 20rem;
     height: 60px;
     width: 150px;
 }
@@ -219,14 +219,14 @@ footer {
 /* ---------------------------------------------- social links */
 
 #social {
-    width: 300px;
+    /* width: 300px; */
     height: 60px;
-    font-size: 90%;
+    font-size: 80%;
     letter-spacing: 2px;
-    line-height: 80px;
-    /* text-align: center; */
+    line-height: 60px;
+    text-align: center;
     /* margin: 0 auto; */
-    border: 1px solid #000;
+    /* border: 1px solid #000; */
     /* width: 33%; */
 }
 
@@ -244,8 +244,9 @@ footer {
 /* ---------------------------------------------- logo bttm */
 
 #logo2 {
-    float: right;
-    margin-right: 20rem;
+    float: left;
+    /* margin-right: 10rem; */
+    /* padding-left: 20rem; */
     background-color: #9a9a9a;
     height: 60px;
     width: 150px;
@@ -258,7 +259,7 @@ footer {
     float: left;
     background-color: #9d433b;
     height: 60px;
-    width: 150px;
+    width: 60px;
     border: none;
     margin-top: 5px;
     margin-right: 10px;
@@ -275,7 +276,7 @@ footer {
     padding: 4em 2em 0em 2em;
     position: relative;
     color: #fafafa;
-    border-left: 1px solid;
+    border-left: 1px dashed;
 }
 
 .timeline-item p {
