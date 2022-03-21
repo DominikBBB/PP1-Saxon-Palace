@@ -9,7 +9,7 @@
 body {
     font-family: "Brygada 1918", sans-serif;
     font-weight: 300;
-    color: ;
+    color: #000;
     background-color: #9a9a9a;
 }
 
@@ -199,11 +199,12 @@ footer {
     z-index: 2;
 }
 
+
 /* ---------------------------------------------- map small */
 
 .mapouter2 {
     float: right;
-    /* text-align: right; */
+    text-align: right;
     margin-right: 20rem;
     height: 60px;
     width: 150px;
@@ -218,19 +219,30 @@ footer {
 
 /* ---------------------------------------------- social links */
 
-#social {
-    /* width: 300px; */
+.social {
+    text-align: center;
+}
+
+.social li {
+    display: inline;
+}
+
+.social i {
+    font-size: 120%;
+    margin: 1%;
+    /* padding: 5%; */
+    color: #fafafa;
+}
+
+/* .social {
     height: 60px;
     font-size: 80%;
     letter-spacing: 2px;
     line-height: 60px;
-    text-align: center;
-    /* margin: 0 auto; */
-    /* border: 1px solid #000; */
-    /* width: 33%; */
+    text-align: center;   
 }
 
-#social li {
+.social li {
     display: inline-block;
     list-style-type: none;
     margin-right: 20px;
@@ -239,7 +251,7 @@ footer {
 #social a {
     text-decoration: none;
     color: inherit;
-}
+} */
 
 /* ---------------------------------------------- logo bttm */
 
@@ -310,3 +322,40 @@ footer {
     background: #fafafa;
 }
 
+/* ---------------------------------------------- gallery */
+
+#photo {
+    margin-top: 65px;
+    margin-bottom: 65px;
+    clear:both;
+    line-height: 0;
+    column-count: 5;
+    column-gap: 0;
+}
+
+#photo img {
+    width: 100%;
+}
+
+
+
+/* ---------------------------------------------- contact */
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------- media queries */
+/* 
+@media screen and (max-width: 1393px) {
+    .sections div: {
+        width: 65%;
+        margin: 0 auto;
+
+        
+    } */
