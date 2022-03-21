@@ -346,6 +346,14 @@ footer {
     max-width: 70%;
 }
 
+button[type="submit"] {
+    height: 60px;
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    /* background-color: #e84610; */
+}
 
 
 
@@ -354,7 +362,7 @@ footer {
 @media screen and (max-width: 1393px) {
 
     #media {
-        /* max-width: 80%; */
+        max-width: 80%;
         margin: 0 auto;
         font-size: 15px;        
     }
