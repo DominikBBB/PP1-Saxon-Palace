@@ -1,4 +1,4 @@
-![Saxon Palace logo](/xxxassets/images-readme/saski-logo.jpg)
+<p align="center"> <img src="assets/images-readme/R01-saski-logo-readme.jpg" alt="The Saxon Palace Logo" /> </p>
 
 # The Old-New Saxon Palace in Warsaw
 
@@ -53,7 +53,7 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
 The Old-New Saxon Palace website is a landing page for people interested in the historical facts of The Saxon Palace in Warsaw.
 Users will be able to understand why the Palace was established, rebilt, renovated, sold, bought, occupied and destroyed. User will also see proposal and videos how the Saxon Palace will be restored. This website will present the history of the palace in timeline order and in extensive photo gallery. Users will be able to find links to social media platforms and contact information and also form to send the message if they need more information or just sign up for a newsletter.
 
-This website will target all people, both local residents and turists, who wants to explore past, presents and future facts about the Old-New Saxon Palace.
+This website will target all people, both local residents and turists, who want to explore past, present and future facts about the Old-New Saxon Palace.
 
 [Back to Table Of Contents](#table-of-contents)
 

@@ -10,8 +10,8 @@ body {
     font-size: 18px;
     font-family: "Brygada 1918", sans-serif;
     font-weight: 300;
-    color: #000;
-    background-color: #9a9a9a;
+    color: #0e0e10;
+    background-color: #c7c7d1;
 }
 
 div {
@@ -19,9 +19,9 @@ div {
 }
 
 img {
-    border: 1px solid #000;
-    background-color: #9d433b;
-    color: #fafafa;
+    /* border: 1px solid #0e0e10; */
+    background-color: rgba(255, 76, 60, 0.9);
+    color: #0e0e10;
     text-align: center;
     font-size: xxx-small;
 }
@@ -29,7 +29,7 @@ img {
 figcaption {
     font-size: x-small;
     text-align: center;
-    color: #fafafa;
+    color: #0e0e10;
     font-style: italic;
 }
 
@@ -50,7 +50,7 @@ header {
 
 #logo1 {
     float: left;
-    background-color: #9a9a9a;
+    background-color: #c7c7d1;
     height: 60px;
     width: 150px;
     margin-left: 20vw;
@@ -105,7 +105,7 @@ header {
     margin-top: 95px;
     height: 600px;
     width: 100%;
-    background: url(../images/saxon-halfhalf.jpg) no-repeat center center;
+    background: url(../images/O01-saxon-halfhalf.jpg) no-repeat center center;
     animation-name: saxon-halfhalf-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -122,7 +122,7 @@ header {
 }
 
 #cover-text {
-    color: #000;
+    color: #0e0e10;
     font-size: 150%;
     letter-spacing: 4px;
 
@@ -233,7 +233,7 @@ footer {
     font-size: 12px;
     line-height: 7px;
     text-align: center;
-    color: #000;
+    color: #0e0e10;
     background: inherit;
 }
 
@@ -247,7 +247,7 @@ footer {
 #logo2 {
     float: left;
     margin-left: 20vw;
-    background-color: #9a9a9a;
+    background-color: #c7c7d1;
     height: 60px;
     width: 150px;
     border: none;
@@ -257,7 +257,7 @@ footer {
 
 .timeline-pic {
     float: left;
-    background-color: #9d433b;
+    background-color: rgba(255, 76, 60, 0.9);
     height: 60px;
     width: 60px;
     border: none;
@@ -275,7 +275,7 @@ footer {
 .timeline-item {
     padding: 4em 2em 0em 2em;
     position: relative;
-    color: #fafafa;
+    color: #f4f4f6;
     border-left: 1px dashed;
 }
 
@@ -344,7 +344,7 @@ button[type="submit"] {
     width: 150px;
     margin-top: 15px;
     margin-bottom: 20px;
-    color: #fafafa;
+    color: #f4f4f6;
 }
 
 /* ---------------------------------------------- media queries */
