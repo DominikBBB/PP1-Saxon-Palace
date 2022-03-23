@@ -20,7 +20,7 @@
 <body>
     <header>
         <div><a href="index.html">
-                <img src="assets/images/saski-new-pic.png"
+                <img src="assets/images/L01-saski-logo.png"
                     alt="Logo of the new Saxon Palace with Polish national flag on top of the building" id="logo1">
             </a>
         </div>
@@ -43,21 +43,40 @@
     </header>
 
     <section>
-        <section id="contact-form" class="container-fluid">
+
+        <div id="address">
+
+            <h2>Ministerstwo Kultury i Dziedzictwa Narodowego</h2>
+            <h3>(The Ministry of Culture and National Heritage)</h3>
+            <br>
+            <h4>Address:</h4>
+                <p>Krakowskie Przedmieście 15/17, 00-071 Warszawa</p>
+                <p><i class="fa-solid fa-at"></i> <a href="mailto:esp@kultura.gov.pl">esp@kultura.gov.pl</a></p>
+                <p><i class="fa-solid fa-square-phone"></i> +48 22 42 10 100</p>
+                <p><i class="fa-solid fa-fax"></i> +48 22 42 10 131</p>
+            
+        </div>
+        <div id="contact-form" class="container-fluid">
             <div class="row">
                 <div class="col">
-                    <h3 class="text-center"><i class="fa-solid fa-envelope"></i> <i class="fa-solid fa-envelope"></i> <i
-                            class="fa-solid fa-envelope"></i> Contact Form: <i class="fa-solid fa-envelope"></i> <i
-                            class="fa-solid fa-envelope"></i> <i class="fa-solid fa-envelope"></i></h3>
+
+                    <h4 class="text-center"><i class="fa-solid fa-envelope"></i> Contact Form: </h4>
 
                     <div class="center-form">
+
                         <form action="https://formdump.codeinstitute.net" method="POST"></form>
+
                         <form>
+
                             <input type="text" name="name" id="fullname" class="form-control"
-                                placeholder="Your Full Name" required />
+                                placeholder="Your Full Name:" required />
+
                             <input type="email" name="email" id="emailaddress" class="form-control"
-                                placeholder="Your Email" required />
-                            <textarea rows="5" name="ideasummary" id="ideasummary" class="form-control"></textarea>
+                                placeholder="Your Email:" required />
+
+                            <textarea rows="5" name="ideasummary" id="ideasummary" class="form-control"
+                                placeholder="Your Message:" required></textarea>
+
                             <div class="form-row text-center">
                                 <div class="col">
                                     <button type="submit" class="btn btn-secondary">Send</button>
@@ -68,7 +87,7 @@
 
                 </div>
             </div>
-        </section>
+        </div>
 
         <footer>
 

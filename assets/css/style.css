@@ -337,22 +337,47 @@ footer {
 
 /* ---------------------------------------------- contact */
 
+#address {
+    margin-top: 150px;
+    height: 300px;
+    /* max-width: 65%; */
+    text-align: center;
+    /* border: 1px solid #0e0e10; */
+}
+
 #contact-form {
-    margin-top: 120px;
+    margin-top: 95px;
+    height: 600px;
+    width: 65%;
+    background: url(../images/O01-saxon-halfhalf.jpg) no-repeat center center;
+    /* border: 1px solid #0e0e10; */
+    margin-bottom: 80px;
+
+}
+
+.col {
+    text-align: center;
+    padding-bottom: 10px;
 }
 
 .center-form {
     padding-top: 10px;
     margin: 0 auto;
-    max-width: 70%;
+    max-width: 60%;    
+}
+
+.form-control {
+    margin: 10px;
 }
 
 button[type="submit"] {
     height: 60px;
     width: 150px;
-    margin-top: 15px;
-    margin-bottom: 20px;
-    color: #f4f4f6;
+    margin: 0px, auto;
+    /* margin-top: 15px;
+    margin-bottom: 20px; */
+    color: #f4f4f4;
+    background-color: rgba(255, 76, 60, 0.9);
 }
 
 /* ---------------------------------------------- media queries */
