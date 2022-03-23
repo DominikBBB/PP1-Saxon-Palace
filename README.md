@@ -29,7 +29,7 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
    6. [Skeleton](#skeleton)
       1. [Wireframes](#wireframes)
    7. [Surface](#surface)
-      1. [Colours](#colours)
+      1. [Colours](#colours) +
       2. [Typography](#typography)
       3. [Images & Icons](#images-&-icons)
 3. [Features](#features)
@@ -151,6 +151,7 @@ My goal in this project is to promote the Saxon Palace in Warsaw to the market t
 
 ---
 
+
 ## Structure:
 
 The structure for the application has been thought out and designed to allow for the user to have a seamless and easy experience. A consistent minimalistic design will be implemented on all pages. The flow of the pages will feel natural and allow for the user to feel right at home after only viewing one page.
@@ -234,7 +235,7 @@ Mobile:
 
 The colours that will be used throughout the site for its main styling are shown below, these colours have been picked to keep within the design brief of maintaining a simplified viewing pleasure.
 
-![Colours used for The Tipsy Quiz](/assets/images/readme-images/tipsy-quiz-colours.png)
+![Colours Palette](assets/images-readme/R02-color-palette.png)
 
 The colours will be used in specific ways that complement one another, maintaining good contrast levels.
 

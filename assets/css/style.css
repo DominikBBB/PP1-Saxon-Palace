@@ -261,8 +261,9 @@ footer {
     height: 60px;
     width: 60px;
     border: none;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-right: 10px;
+    margin-left: 10px;
     object-fit: fill;
 }
 
@@ -275,8 +276,9 @@ footer {
 .timeline-item {
     padding: 4em 2em 0em 2em;
     position: relative;
-    color: #f4f4f6;
+    color: #0e0e10;
     border-left: 1px dashed;
+    
 }
 
 .timeline-item p {
@@ -284,16 +286,22 @@ footer {
     padding: 0;
     margin: 0;
     font-size: 0.8em;
+    color: #0e0e10;
+    /* background: #0e0e10; */
+    /* padding: 1em; */
+    /* border: 1px solid #0e0e10; */
+    /* border-radius: 1em; */
+
 }
 
 .timeline-item:before {
     content: attr(data-dates);
     position: absolute;
-    left: 2.5em;
-    top: 3em;
+    left: 2em;
+    top: 2em;
     display: block;
     font-weight: 500;
-    font-size: 0.8em;
+    font-size: 1em;
     padding: 0;
     margin: 0;
 }
@@ -307,7 +315,7 @@ footer {
     left: -6px;
     border-radius: 12px;
     content: "";
-    background: #fafafa;
+    background: #0e0e10;
 }
 
 /* ---------------------------------------------- gallery */
