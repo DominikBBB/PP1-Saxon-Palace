@@ -110,10 +110,9 @@ My goal in this project is to promote the Saxon Palace in Warsaw to the market t
 
 ### Project Goals:
 
-- To provide a fun and interactive application.
-- For the question bank to be regularly updated.
-- Allow for users to log scores.
-- Provide quiz audio for questions to be readout.
+- 1
+- 2
+- 3
 
 ### Business Goals:
 
@@ -162,38 +161,13 @@ The structure for the application has been thought out and designed to allow for
 
 - Header
 
-  - The logo will act as a link back to the homepage.
-  - The small navigation will be the same on all pages allowing for quick movement and ease of navigation.
+- 
 
-- Quiz
+- 
 
-  - A counter to show what question you are on.
-  - A button to allow for speech synthesis to read out the question.
-  - Your current score.
-  - The question itself.
-  - 4 answers buttons of which only 1 is correct.
-
-- Game Over
-
-  - Text field to enter a name.
-  - Your score from that round.
-  - A submit button
-  - Play again button.
-  - HighScores button.
-
-- High Scores
-
-  - Rankings for people’s scores.
-  - Play button.
-
-- Help
-
-  - Quick and brief description on how to play the quiz.
-  - Contact Form.
+- 
 
 - Footer
-  - Small help button to link to the help page.
-  - Dev link / socials.
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -206,28 +180,15 @@ The structure for the application has been thought out and designed to allow for
 
 Desktop:
 
-- [Home](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/home-desktop.png)
-- [Quiz](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/quiz-desktop.png)
-- [Game Over](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/gameover-desktop.png)
-- [High Scores](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/highscores-desktop.png)
-- [Help](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/help-desktop.png)
+- 
 
 Tablet:
 
-- [Home](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/home-tablet.png)
-- [Quiz](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/quiz-tablet.png)
-- [Game Over](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/gameover-tablet.png)
-- [High Scores](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/highscores-tablet.png)
-- [Help](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/help-tablet.png)
+- 
 
 Mobile:
 
-- [Home](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/home-mobile.png)
-- [Quiz](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/quiz-mobile.png)
-- [Game Over](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/gameover-mobile.png)
-- [High Scores](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/highscores-mobile.png)
-- [Help](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/wireframes/home-mobile.png)
-
+- 
 
 [Back to Table Of Contents](#table-of-contents)
 
@@ -249,13 +210,9 @@ The colours will be used in specific ways that complement one another, maintaini
 
 ### Typography:
 
-With the design of 'The Tipsy Quiz' aiming to be fun and interactive, I have picked two fonts that will have a continual use case throughout the design of the site.
-
-The initial plan was to use [Pangolin](https://fonts.google.com/specimen/Pangolin?preview.text=The%20Tipsy%20Quiz&preview.text_type=custom#standard-styles) and [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab?preview.text=The%20Tipsy%20Quiz&preview.text_type=custom&query=roboto+s). After initial coding and live site viewing with early deployment via GitPages, I soon realized that the fonts chosen would not work, so new fonts were needed. I have settled on the following fonts:
-
-1. [Schoolbell](https://fonts.google.com/specimen/Schoolbell?query=school) - A fun and stylish font that is easy to read and will be used for headings.
-2. [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins) - A very stylish and easy-to-read font. Will be used for the bulk of the text.
-3. [Oswald](https://fonts.google.com/specimen/Oswald?query=oswal) - This bold and block style font will be used for navigation items.
+- 
+- 
+- 
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -263,9 +220,9 @@ The initial plan was to use [Pangolin](https://fonts.google.com/specimen/Pangoli
 
 ### Images & Icons:
 
-There will be multiple icons used throughout the application. [Font Awesome]() will be the main source for icons.
-
-During the design phase, there was no real need for images to be used but the sparsity on the homepage after initial HTML and CSS was completed pushed me to include an image in the open space. The image I used was taken from a [Cocktail Party App](https://cocktailpartyapp.com/better-lychee-cocktails-alternatives-to-the-lychee-martini/) Blog post.
+- 
+- 
+- 
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -275,20 +232,15 @@ During the design phase, there was no real need for images to be used but the sp
 
 ## Current Features:
 
-- Speech Synthesis for reading out the question when needed.
-- Correct and incorrect audio
-- Save score to a local High Scores table.
-- Submit a question to the creator.
+- 
+- 
+- 
 
 ## Future Features:
 
-- Implement PWA, to allow users to install the application on their own device.
-- Dark mode.
-- Random subject wheel.
-- Difficulty Mode.
-- Randomly organize answers each time a new question is loaded.
-- Add more questions either by current method or API.
-
+- 
+- 
+- 
 
 [Back to Table Of Contents](#table-of-contents)
 
@@ -306,30 +258,43 @@ During the design phase, there was no real need for images to be used but the sp
 - [Font Awesome](https://fontawesome.com/)
 - [Gitpd & Git](https://gitpod.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-  - This IDE was used for this project.
 - [GitHub](https://github.com/)
-  - Provided a Remote repository. Allowing my code to be backed up online as I go.
 - [Balsamic](https://balsamiq.com/)
-  - Balsamic was used to design wireframes.
 - [Coolors](https://coolors.co/)
-  - For colour inspiration and pallet.
 - [Bootstrap5](https://getbootstrap.com/)
-  - Mature framework used for implementing responsive elements to the site.
 - [W3C HTML & CSS]
-
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
-- 1
-- 2
-- 3
 
 [Back to Table Of Contents](#table-of-contents)
 
 ## Resources:
 
 - inspiracions from love running project
-- 2 wikipedia
-- 3
+- wikipedia
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
 
   
 [Back to Table Of Contents](#table-of-contents)
@@ -337,7 +302,9 @@ During the design phase, there was no real need for images to be used but the sp
 
 # Testing:
 
-For testing, I will use multiple resources, HTML and CSS validators, Chrome Dev Tools Lighthouse tests as well as thorough user testing. Any errors and bugs found during the testing stage will be noted in the [Bugs & Fixes](#bugs-&-fixes) section.
+- 
+- 
+- 
 
 ## Tests:
 
@@ -467,20 +434,19 @@ To make a local clone of the project follow these steps:
 
 # Credits:
 
-1. [Brian Design](https://youtu.be/f4fB9Xg2JEY)
-   - Brian's YouTube video for a JS quiz was used as inspiration and a stepping stone for this application. Code used form Brian's video has been credited within comments. In some cases this video was referred to for a lot of help so for that I owe a great deal of thanks.
-2. [Shake Hover Effect](https://www.w3schools.com/howto/howto_css_shake_image.asp)
-   - W3Schools code for "shake effect" was used.
-3. [SpeechSynthesis](https://codingislove.com/speech-with-javascript/)
-   - Assistance with implementing speech synthesis.
-4. [AllowSave Function](https://stackoverflow.com/questions/44107807/addeventlistener-on-keyup-javascript-once#44107848)
-   - Help will "Keyup" event listener to only allow save if input field has had data entered into it.
-5. [MDN Web Docs](https://developer.mozilla.org/en-US/)
-   - By far my most used resource during this project, nearly every question or doubt I had, I could find the answer within MDN.
-6. [Stack Overflow](https://stackoverflow.com/)
-   - Very grateful for this website, helped me in many situations not just with JS but also with HTML and CSS in some cases.
-7. [Code Institute.](https://codeinstitute.net/)
-   - Provides a great learning platform that has helped me get to this point.
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
 
   
 [Back to Table Of Contents](#table-of-contents)
