@@ -147,10 +147,6 @@ nav {
     max-width: 60%;
     margin: 0 auto;
 }
-/* 
-.sections div {
-    max-width: 70%;
-} */
 
 section div {
     padding-top: 10px;
@@ -266,39 +262,23 @@ footer {
 
 /* ---------------------------------------------- timeline */
 
-.timeline-pic {
-    float: left;
-    background-color: rgba(255, 76, 60, 0.9);
-    height: 60px;
-    width: 60px;
-    border: none;
-    margin-top: 10px;
-    margin-right: 10px;
-    margin-left: 10px;
-    object-fit: fill;
-}
-
-
 #timeline {
-    margin-top: 120px;
-    margin-bottom: 120px;
-    margin-left: 27rem;
+    margin: 120px 15% 120px 20%;
+    max-width: 70%;
 }
 
 .timeline-item {
     padding: 4em 2em 0em 2em;
     position: relative;
     color: #0e0e10;
-    border-left: 1px dashed;
-
-    
+    border-left: 1px dashed;    
 }
 
 .timeline-item p {
-    max-width: 40rem;
+    max-width: 90%;
     padding: 0;
     margin: 0;
-    font-size: 0.8em;
+    font-size: 0.9em;
     color: #0e0e10;
 }
 
@@ -326,6 +306,18 @@ footer {
     background: #0e0e10;
 }
 
+.timeline-pic {
+    float: left;
+    background-color: rgba(255, 76, 60, 0.9);
+    height: 60px;
+    width: 60px;
+    border: none;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    object-fit: fill;
+}
+
 /* ---------------------------------------------- gallery */
 
 #photo {
@@ -334,7 +326,7 @@ footer {
     clear: both;
     line-height: 0;
     column-count: 5;
-    column-gap: 0;
+    column-gap: 0;   
 }
 
 #photo img {
@@ -345,6 +337,7 @@ footer {
 
 #address {
     margin-top: 150px;
+    margin-bottom: 50px;
     height: 300px;
     text-align: center;
 }
@@ -399,6 +392,11 @@ button[type="submit"] {
     #photo {
         column-count: 3;
     }
+
+    .center-form {
+        max-width: 80%;
+    }    
+
 }
 
 @media screen and (max-width: 992px) {
@@ -408,24 +406,21 @@ button[type="submit"] {
     }
 
     #menu {
-        /* clear: left;
-        float: left; */
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
     }
 
-    #media {
+    /* #media {
         margin: 0 auto;
         font-size: 12px;
         object-fit: fill;
-
-    }
+    } */
 
     .center-form {
         padding-top: 30px;
         margin: 0 auto;
-        max-width: 50%;
+        max-width: 80%;
     }
 
     #photo {

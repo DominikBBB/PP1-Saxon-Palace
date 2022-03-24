@@ -2,7 +2,7 @@
 
 # The Old-New Saxon Palace in Warsaw
 
-## by Dominik Brzeski
+## by DB
 
 ---
 
@@ -21,28 +21,31 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
 
 1. [Project Overview](#project-overview) +
 2. [User Experience(UX)](#user-experience-ux) +
-   1. [Target Audience](#target-audience) +
-   2. [User Stories](#user-stories) +
-   3. [Strategy](#strategy)
-   4. [Scope](#scope) +
-   5. [Structure](#structure)
-   6. [Skeleton](#skeleton)
-      1. [Wireframes](#wireframes)
-   7. [Surface](#surface)
-      1. [Colours](#colours) +
-      2. [Typography](#typography)
-      3. [Images & Icons](#images-&-icons)
+    1. [Target Audience](#target-audience) +
+    2. [User Stories](#user-stories) +
+    3. [Strategy](#strategy)
+    4. [Scope](#scope) +
+    5. [Structure](#structure)
+    6. [Skeleton](#skeleton)
+        1. [Wireframes](#wireframes)
+    7. [Surface](#surface)
+        1. [Colours](#colours) +
+        2. [Typography](#typography)
+        3. [Images & Icons](#images-&-icons)
 3. [Features](#features)
-   1. [Current Features](#current-features)
-   2. [Future Features](#future-features)
+    1. [Current Features](#current-features)
+    2. [Future Features](#future-features)
 4. [Technologies](#technologies)
+    1. [Languages](#languages) +
+    2. [Other Technologies](#other-technologies)
+    3. [Resources](#Resources) 
 5. [Testing](#testing)
-   1. [Tests](#tests)
-   2. [Bugs & Fixes](#bugs-&-fixes)
+    1. [Tests](#tests)
+    2. [Bugs & Fixes](#bugs-&-fixes)
 6. [Deployment](#deployment) +
-   1. [GitHub Pages](#github-pages) +
-   2. [Forking Repository](#forking-the-github-repository) +
-   3. [Cloning the project](#cloning-the-project) +
+    1. [GitHub Pages](#github-pages) +
+    2. [Forking Repository](#forking-the-github-repository) +
+    3. [Cloning the project](#cloning-the-project) +
 7. [Credits](#credits)
 8. [Acknowledgments](#acknowledgments)
 
@@ -144,7 +147,8 @@ My goal in this project is to promote the Saxon Palace in Warsaw to the market t
 #### Features that are to be considered for future releases:
 
 - Dark mode,
-- Tours booking system.
+- Tours booking system,
+- Live camera during the reconstruction of the palace.
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -296,7 +300,7 @@ During the design phase, there was no real need for images to be used but the sp
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-## Other Technologies, Frameworks & Libraries:
+## Other Technologies:
 
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
@@ -317,6 +321,14 @@ During the design phase, there was no real need for images to be used but the sp
 
 - 1
 - 2
+- 3
+
+[Back to Table Of Contents](#table-of-contents)
+
+## Resources:
+
+- inspiracions from love running project
+- 2 wikipedia
 - 3
 
   
@@ -477,10 +489,10 @@ To make a local clone of the project follow these steps:
 
 I would like to thank:
 
-- My mentor Chris Quinn for his helpful and valuable feedback and guidance,
-- Kamil Kwiatkowski,
-- Ewa Kukla,
-- Slack #polish-community and #jan-2022-sb-5p for their suggestions and support,
+- My mentor Chris Quinn (https://github.com/10xOXR) for his helpful and valuable feedback and guidance,
+- Kamil Kwiatkowski (https://github.com/kamil-kw),
+- Ewa Kukla (https://github.com/Eva-Kuk),
+- Slack #polish-community and #jan-2022-sb-5p for their suggestions and support.
 
   
 [Back to Table Of Contents](#table-of-contents)
