@@ -178,17 +178,9 @@ The structure for the application has been thought out and designed to allow for
 
 ### Wireframes:
 
-Desktop:
 
-- 
+![Wireframes](assets/images-readme/R03-wireframes-desktop-mobile.jpg) 
 
-Tablet:
-
-- 
-
-Mobile:
-
-- 
 
 [Back to Table Of Contents](#table-of-contents)
 
@@ -423,7 +415,7 @@ I would like to thank:
 - My mentor Chris Quinn (https://github.com/10xOXR) for his helpful and valuable feedback and guidance,
 - Kamil Kwiatkowski (https://github.com/kamil-kw),
 - Ewa Kukla (https://github.com/Eva-Kuk),
-- Slack #polish-community and #jan-2022-sb-5p for their suggestions and support.
+- Slack #polish-community and #jan-2022-sb-5p group for their suggestions and great support.
 
   
 [Back to Table Of Contents](#table-of-contents)
