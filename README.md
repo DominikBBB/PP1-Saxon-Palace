@@ -308,49 +308,21 @@ The colours will be used in specific ways that complement one another, maintaini
 
 ## Tests:
 
+
 ### [HTML Validator](https://validator.w3.org/)
 
-All HTML pages have been tested with the w3c validator and passed with no errors.
-
+- 
 ### [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 
-style.css has been passed through the CSS validator and passed with no errors.
-The test does show some warnings, but after some [research](https://stackoverflow.com/questions/30607832/w3c-css-validation-error-using-calc-and-vendor-extensions) They are nothing to be worried about.
-
-### [JS HINT](https://jshint.com/)
-
-All .js files have been passed through JSHint and do not show any errors. Along with this, after serious use of the site, there have been no errors showing in the console also.
-
-### [Testing Sheet](https://docs.google.com/spreadsheets/d/1bqE4Lg5n3L6VSnY4R-9wlJSKyKkupq93p1U6fQtSTfg/edit?usp=sharing)
-
-In-depth user testing has been carried out across multiple devices and the results can be found in the above link.
+- 
 
 ### [Chrome Dev Tools - Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
-For running the lighthouse tests, I used an incognito window to avoid any errors and issues that could be caused by any of my Chrome extensions.
-
-- Index.html
-  - [Desktop](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/index-desktop.png)
-  - [Mobile](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/index-mobile.png)
-    - Warning "Properly sized images": The image on the home page has already been compressed, It has a transparent background and If i take the compression any further this causes the quality to drop significantly.
-- quiz.html
-  - [Desktop](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/quiz-desktop.png)
-  - [Mobile](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/quiz-mobile.png)
-- game-over.html
-  - [Desktop](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/game-over-desktop.png)
-  - [Mobile](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/game-over-mobile.png)
-- high-scores.html
-  - [Desktop](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/high-scores-desktop.png)
-  - [Mobile](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/high-scores-mobile.png)
-- help.html
-  - [Desktop](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/help-desktop.png)
-  - [Mobile](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/lighthouse-results/help-mobile.png)
+- 
 
 ### Testing User Stories:
 
-Using the user stories I came up with during the pre-design phase of this application, I tested them out to see if I have achieved them, I also had other people test the site and asked them the user stories as a question to see if they came true.
-
-The results of this test can be found here: [User Story Test Results](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/usertests.md)
+- 
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -358,18 +330,11 @@ The results of this test can be found here: [User Story Test Results](https://gi
 
 ## Bugs & Fixes:
 
-1. RESOLVED -- README.md links to open in new tab.
-   - Some specific links to this README.md file would work better if they opened in a new tab when clicked but after some testing and then research I found out that this is not possible. [Evidence.](https://stackoverflow.com/questions/50834937/open-readme-md-link-in-new-tab-github)
-2. FIXED -- :is CSS pseudo-class
-   - This was used after watching [Kevin Powells](https://www.youtube.com/watch?v=McC4QkCvbaY&t=399s) video on simplifying CSS, unfortunately, when passed through the [CSS Validator](https://jigsaw.w3.org/css-validator/) this showed errors, where I had used the :is class, Therefor I have removed and replaced with code that passes, this code is longer but passes the validation.
-3. When using the application on mobile the hover effect is still present on the next question, also hover only works when clicked. [See here for evidence](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/bugs/hover-issue-on-mobile.png).
-   - For this, I have removed the pseudo-class :hover and added JS event listeners for mouseover/mouseleave and then for touch on mobile.
-4. FIXED -- When using the play button to read the question out via Speech Synthesis, the speed that the question was read out at was too fast.
-   - To resolve this issue I lowered the speaking rate to 0.9(Default = 1.). This now means the question is read out slower, but still maintains a natural speaking speed.
-5. After you complete the quiz you are taken to game-over.html and the "save score" button is disabled until you enter data into the input field. For some reason the default "disabled" cursor will not show when over the button.
-   - After a lot of time researching this issue, It was made clear that the simple fixes i had seen on stack-overflow weren't working. So this issue is still open and currently just shows a standard cursor whilst the button is disabled and then changes to a pointer cursor when the button is enabled.
+- 
+- 
+- 
 
-  
+
 [Back to Table Of Contents](#table-of-contents)
 
 
