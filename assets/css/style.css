@@ -262,6 +262,7 @@ footer {
     height: 60px;
     width: 150px;
     border: none;
+}
 
 /* ---------------------------------------------- timeline */
 
@@ -277,6 +278,7 @@ footer {
     object-fit: fill;
 }
 
+
 #timeline {
     margin-top: 120px;
     margin-bottom: 120px;
@@ -288,6 +290,7 @@ footer {
     position: relative;
     color: #0e0e10;
     border-left: 1px dashed;
+
     
 }
 
@@ -349,7 +352,7 @@ footer {
 /* ---------------------------------------------- contact form */
 
 #contact-form {
-    margin-top: 95px;
+    margin-top: 120px;
     height: 600px;
     width: 65%;
     background: url(../images/O01-saxon-halfhalf.jpg) no-repeat center center;
@@ -357,12 +360,13 @@ footer {
 }
 
 .col {
+    padding-top: 10px;
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 .center-form {
-    padding-top: 10px;
+    padding-top: 20px;
     margin: 0 auto;
     max-width: 60%;    
 }
@@ -374,14 +378,19 @@ footer {
 button[type="submit"] {
     height: 60px;
     width: 150px;
-    margin: 0px, auto;
+    margin: 0 auto;
     color: #f4f4f4;
     background-color: rgba(255, 76, 60, 0.9);
 }
 
 /* ---------------------------------------------- media queries */
 
-@media screen and (max-width: 1393px) {
+@media screen and (max-width: 1200px) {
+
+
+    .sections {
+        max-width: 80%;
+    }
 
     .media-pic img {
         max-width: 70%;
@@ -392,8 +401,11 @@ button[type="submit"] {
     }
 }
 
-@media screen and (max-width: 943px) {
+@media screen and (max-width: 992px) {
 
+    .sections {
+        max-width: 90%;
+    }
 
     #menu {
         /* clear: left;
@@ -421,7 +433,7 @@ button[type="submit"] {
     }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
 
     #photo {
         column-count: 1;
