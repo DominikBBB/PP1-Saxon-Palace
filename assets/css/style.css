@@ -14,16 +14,16 @@ body {
     background-color: #c7c7d1;
 }
 
-div {
+/* div {
     padding: 0 10px 0 10px;
-}
+} */
 
 img {
-    /* border: 1px solid #0e0e10; */
     background-color: rgba(255, 76, 60, 0.9);
     color: #0e0e10;
     text-align: center;
     font-size: xxx-small;
+    /* max-width: 100vw; */
 }
 
 figcaption {
@@ -33,12 +33,11 @@ figcaption {
     font-style: italic;
 }
 
-
 /* ---------------------------------------------- header */
 
 header {
     width: 100%;
-    height: 60px;
+    min-height: 60px;
     position: fixed;
     background-color: inherit;
     top: 0;
@@ -46,33 +45,40 @@ header {
     z-index: 2;
 }
 
+.header-mini {
+    text-align: center;
+}
+
 /* ---------------------------------------------- logo top */
 
-#logo1 {
-    float: left;
+#logo1 {    
     background-color: #c7c7d1;
     height: 60px;
     width: 150px;
-    margin-left: 20vw;
     border: none;
 }
 
 /* ---------------------------------------------- navigation links */
 
+nav {
+    margin-top: 20px; 
+    text-align: center;
+}
 
 #menu {
-    font-size: 90%;
+    font-size: 70%;
     letter-spacing: 2px;
     line-height: 30px;
-    /* text-align: center; */
-    margin-right: 20vw;
+    text-align: center;
+    /* vertical-align: middle; */
+    /* margin: auto; */
+    /* margin-right: 20vw; */
     list-style-type: none;
-
 }
 
 #menu li {
-    /* display: inline-block; */
-    float: right;
+    display: inline-block;
+    /* float: right; */
     margin-right: 10px;
 }
 
@@ -130,7 +136,7 @@ header {
     padding-top: 40px;
     padding-left: 15px;
     background-color: rgba(255, 76, 60, 0.9);
-    bottom: 40px;
+    bottom: 60px;
     left: 150px;
     position: absolute;
 }
@@ -141,6 +147,10 @@ header {
     max-width: 60%;
     margin: 0 auto;
 }
+/* 
+.sections div {
+    max-width: 70%;
+} */
 
 section div {
     padding-top: 10px;
@@ -148,17 +158,29 @@ section div {
     margin: 0 auto;
 }
 
-.media-pic {
+.media-pic {    
     text-align: center;
+}
+
+.media-pic img {    
+    max-width: 90%;
 }
 
 /* ---------------------------------------------- video */
 
 #video {
     text-align: center;
+    max-width: 90vw;
 }
 
 /* ---------------------------------------------- map big */
+
+#map_bottom {
+    margin-bottom: 80px;
+    text-align: center;
+    /* width: 90%; */
+    max-width: 90vw;
+}
 
 .mapouter {
     position: relative;
@@ -176,9 +198,6 @@ section div {
     padding: 0;
 }
 
-#map_bottom {
-    margin-bottom: 80px;
-}
 
 /* ---------------------------------------------- footer */
 
@@ -186,7 +205,6 @@ footer {
     width: 100%;
     min-height: 60px;
     background-color: #c7c7d1;
-    /* margin: 0; */
     position: fixed;
     bottom: 0;
     right: 0;
@@ -200,8 +218,7 @@ footer {
 /* ---------------------------------------------- map small */
 
 .mapouter2 {
-    float: left;
-    /* margin: 0 auto; */
+    margin: 0 auto;
     height: 60px;
     width: 150px;
 }
@@ -240,7 +257,7 @@ footer {
 /* ---------------------------------------------- logo bttm */
 
 #logo2 {
-    float: right;
+    margin: 0 auto;
     background-color: #c7c7d1;
     height: 60px;
     width: 150px;
@@ -280,11 +297,6 @@ footer {
     margin: 0;
     font-size: 0.8em;
     color: #0e0e10;
-    /* background: #0e0e10; */
-    /* padding: 1em; */
-    /* border: 1px solid #0e0e10; */
-    /* border-radius: 1em; */
-
 }
 
 .timeline-item:before {
@@ -331,9 +343,7 @@ footer {
 #address {
     margin-top: 150px;
     height: 300px;
-    /* max-width: 65%; */
     text-align: center;
-    /* border: 1px solid #0e0e10; */
 }
 
 /* ---------------------------------------------- contact form */
@@ -343,7 +353,6 @@ footer {
     height: 600px;
     width: 65%;
     background: url(../images/O01-saxon-halfhalf.jpg) no-repeat center center;
-    /* border: 1px solid #0e0e10; */
     margin-bottom: 80px;
 }
 
@@ -366,8 +375,6 @@ button[type="submit"] {
     height: 60px;
     width: 150px;
     margin: 0px, auto;
-    /* margin-top: 15px;
-    margin-bottom: 20px; */
     color: #f4f4f4;
     background-color: rgba(255, 76, 60, 0.9);
 }
@@ -376,14 +383,8 @@ button[type="submit"] {
 
 @media screen and (max-width: 1393px) {
 
-    #media {
-        max-width: 80%;
-        margin: 0 auto;
-        font-size: 15px;
-    }
-
-    .media-pic {
-        /* max-width: 70%; */
+    .media-pic img {
+        max-width: 70%;
     }
 
     #photo {
