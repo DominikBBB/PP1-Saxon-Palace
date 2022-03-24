@@ -410,12 +410,8 @@ To make a local clone of the project follow these steps:
 
 # Acknowledgments:
 
-I would like to thank:
-
-- My mentor Chris Quinn (https://github.com/10xOXR) for his helpful and valuable feedback and guidance,
-- Kamil Kwiatkowski (https://github.com/kamil-kw),
-- Ewa Kukla (https://github.com/Eva-Kuk),
-- Slack #polish-community and #jan-2022-sb-5p group for their suggestions and great support.
-
+-
+-
+-
   
 [Back to Table Of Contents](#table-of-contents)
