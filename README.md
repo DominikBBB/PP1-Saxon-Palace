@@ -68,7 +68,8 @@ This website will target all people, both local residents and turists, who want 
 ## Target Audience:
 
 - History enthusiasts,
-- Local residents in Warsaw and tourists,
+- Tourists,
+- Local residents in Warsaw,
 - People of all ages.
 
 [Back to Table Of Contents](#table-of-contents)
@@ -137,19 +138,17 @@ My goal in this project is to promote the Saxon Palace in Warsaw to the market t
 #### The scope of The Old-New Saxon Palace page in its first release is defined by the following features:
 
 - Fully responsive design website,
-- An About Section which briefly presents information about The Saxon Palace and can help to answer the question why it is called The Old-New Saxon Palace,
-- A History Section which include timeline with complex history facts about The Palace with pictures,
-- A Gallery Section which shows a list of photos that are related to important points in the history of the palace,
-- A Contact Section which contain simplified contact form and all details of the promoter,
-- To ensure that the site immediately shows its purpose,
-- To have a straight forward interface, that allows the user to make choices about the content they wish to display,
+- An About Section which presents information about The Saxon Palace,
+- A History Section which include timeline with complex history facts about The Palace,
+- A Gallery Section which shows a list of photos that are related to the history of the palace,
+- A Contact Section with address and contact form,
+- An easy to navigate interface.
 
 #### Features that are to be considered for future releases:
 
 - Dark mode,
-- Tours booking system,
-- Live camera during the reconstruction of the palace.
-
+- Maps,
+- Videos.
 
 [Back to Table Of Contents](#table-of-contents)
 
@@ -219,15 +218,21 @@ I will use FontAwesome (https://fontawesome.com/) as the source for the icons.
 
 ## Current Features:
 
-- 
-- 
-- 
+- Fully responsive design website,
+- An About Section which briefly presents information about The Saxon Palace and can help to answer the question why it is called The Old-New Saxon Palace,
+- Videos and Maps,
+- A History Section which include timeline with complex history facts about The Palace with pictures,
+- A Gallery Section which shows a list of photos that are related to important points in the history of the palace,
+- A Contact Section which contain simplified contact form and all details of the promoter,
+- An easy to navigate interface.
+
 
 ## Future Features:
 
-- 
-- 
-- 
+- Dark mode,
+- Event calendar with booking system,
+- Live camera from building site.
+ 
 
 [Back to Table Of Contents](#table-of-contents)
 
