@@ -22,12 +22,12 @@ img {
     background-color: rgba(255, 76, 60, 0.9);
     color: #0e0e10;
     text-align: center;
-    font-size: xxx-small;
+    font-size: 10px;
     /* max-width: 100vw; */
 }
 
 figcaption {
-    font-size: x-small;
+    font-size: 12px;
     text-align: center;
     color: #0e0e10;
     font-style: italic;
@@ -52,6 +52,7 @@ header {
 /* ---------------------------------------------- logo top */
 
 #logo1 {    
+    /* float: right; */
     background-color: #c7c7d1;
     height: 60px;
     width: 150px;
@@ -173,24 +174,27 @@ section div {
 
 #map_bottom {
     margin-bottom: 80px;
-    text-align: center;
+    /* text-align: center; */
     /* width: 90%; */
     max-width: 90vw;
 }
 
 .mapouter {
     position: relative;
-    text-align: right;
-    height: 400px;
-    width: 720px;
+    /* text-align: center; */
+    /* text-align: right; */
+    /* height: 400px;
+    width: 720px; */
+    margin: 0 auto;
     padding: 0;
 }
 
 .gmap_canvas {
     overflow: hidden;
     background: none !important;
-    height: 400px;
-    width: 720px;
+    text-align: center;
+    /* height: 400px;
+    width: 720px; */
     padding: 0;
 }
 
@@ -214,6 +218,7 @@ footer {
 /* ---------------------------------------------- map small */
 
 .mapouter2 {
+    /* float: left; */
     margin: 0 auto;
     height: 60px;
     width: 150px;
@@ -253,6 +258,7 @@ footer {
 /* ---------------------------------------------- logo bttm */
 
 #logo2 {
+    /* float: right; */
     margin: 0 auto;
     background-color: #c7c7d1;
     height: 60px;
@@ -401,14 +407,19 @@ button[type="submit"] {
 
 @media screen and (max-width: 992px) {
 
+    body {
+        font-size: 14px;
+    }
+
     .sections {
         max-width: 90%;
     }
 
     #menu {
-        margin-left: 30px;
-        margin-bottom: 20px;
+        /* margin-left: 30px;
+        margin-bottom: 20px; */
         line-height: 25px;
+        text-align: center;
     }
 
     /* #media {
@@ -430,7 +441,20 @@ button[type="submit"] {
 
 @media screen and (max-width: 768px) {
 
+    body {
+        font-size: 12px;
+    }
+
+    #menu {
+        font-size: 60%;
+    }
+
     #photo {
         column-count: 1;
+    }
+
+    iframe {
+        max-width: fit-content;
+        min-height: auto;
     }
 }
