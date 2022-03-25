@@ -27,11 +27,12 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
     4. [Scope](#scope) +
     5. [Structure](#structure)
     6. [Skeleton](#skeleton)
-        1. [Wireframes](#wireframes)
+        1. [Wireframes](#wireframes) +
+        2. [Mockups](#mo)
     7. [Surface](#surface)
         1. [Colours](#colours) +
-        2. [Typography](#typography)
-        3. [Images & Icons](#images-&-icons)
+        2. [Typography](#typography) +
+        3. [Images & Icons](#images-&-icons) +
 3. [Features](#features)
     1. [Current Features](#current-features)
     2. [Future Features](#future-features)
@@ -47,7 +48,7 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
     2. [Forking Repository](#forking-the-github-repository) +
     3. [Cloning the project](#cloning-the-project) +
 7. [Credits](#credits)
-8. [Acknowledgments](#acknowledgments)
+8. [Acknowledgments](#acknowledgments) +
 
 ---
 
@@ -159,16 +160,6 @@ My goal in this project is to promote the Saxon Palace in Warsaw to the market t
 
 The structure for the application has been thought out and designed to allow for the user to have a seamless and easy experience. A consistent minimalistic design will be implemented on all pages. The flow of the pages will feel natural and allow for the user to feel right at home after only viewing one page.
 
-- Header
-
-- 
-
-- 
-
-- 
-
-- Footer
-
 
 [Back to Table Of Contents](#table-of-contents)
 
@@ -184,6 +175,14 @@ The structure for the application has been thought out and designed to allow for
 
 [Back to Table Of Contents](#table-of-contents)
 
+
+### Mockups:
+
+![Mockup]
+
+
+[Back to Table Of Contents](#table-of-contents)
+
 ---
 
 ## Surface:
@@ -194,27 +193,23 @@ The colours that will be used throughout the site for its main styling are shown
 
 ![Colours Palette](assets/images-readme/R02-color-palette.png)
 
-The colours will be used in specific ways that complement one another, maintaining good contrast levels.
-
-
-[Back to Table Of Contents](#table-of-contents)
+The colours will be used in specific ways that complement one another:
+- Lavender Grey (#C7C7D1) for backgroud,
+- Cultured (#F4F4F6) for text,
+- Rich Black Forga39 (#0E0E10) for text,
+- Sunset Orange (#FF4C3C) for buttons,
+which maintaining good contrast levels.
 
 
 ### Typography:
 
-- 
-- 
-- 
-
-
-[Back to Table Of Contents](#table-of-contents)
+I have picked fonts 'Brygada 1918' typeface is based on the catalogue entry of the Polish National Type Foundry from 1954, and a set of matrices found at the Book Arts Museum in Poland. These fonts are the part of the revival project created for the celebration of the 100 years of independance of the Republic of Poland in 2018.
 
 
 ### Images & Icons:
 
-- 
-- 
-- 
+There will be multiple images used on the website. The main source is Polish National Digital Archive (https://www.nac.gov.pl/).
+I will use FontAwesome (https://fontawesome.com/) as the source for the icons.
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -241,52 +236,46 @@ The colours will be used in specific ways that complement one another, maintaini
 
 ## Languages:
 
-- [HTML5](https://en.wikipedia.org/wiki/HTML5)
-- [CSS3](https://en.wikipedia.org/wiki/CSS)
+- HTML5 (https://en.wikipedia.org/wiki/HTML5)
+- CSS3 (https://en.wikipedia.org/wiki/CSS)
 
 ## Other Technologies:
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](https://fontawesome.com/)
-- [Gitpd & Git](https://gitpod.io/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [GitHub](https://github.com/)
-- [Balsamic](https://balsamiq.com/)
-- [Coolors](https://coolors.co/)
-- [Bootstrap5](https://getbootstrap.com/)
-- [W3C HTML & CSS]
-- [Contrast Checker](https://webaim.org/resources/contrastchecker/)
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Gitpd & Git (https://gitpod.io/),
+- Visual Studio Code (https://code.visualstudio.com/),
+- GitHub (https://github.com/),
+.
+- Bootstrap 5 (https://getbootstrap.com/),
+- Chrome Developer Tools (https://developer.chrome.com/docs/devtools/),
+- Lighthouse (https://developers.google.com/web/tools/lighthouse),
+- W3 school (https://www.w3schools.com/),
+.
+- Color Palette Generator (https://coolors.co/),
+- Contrast Checker (https://webaim.org/resources/contrastchecker/),
+- Responsive Design (http://ami.responsivedesign.is/),
+- Google Fonts (https://fonts.google.com/),
+- Font Awesome (https://fontawesome.com/).
 
-
-[Back to Table Of Contents](#table-of-contents)
 
 ## Resources:
 
-- inspiracions from love running project
-- wikipedia
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
+- Code Institute Course Content (https://learn.codeinstitute.net/dashboard) - Main source of fundamental knowledge,
+- Code Institute SLACK Community - Source of assistance,
+- Polish National Digital Archive (https://www.nac.gov.pl/) - Source of history information and images,
+- Palac Saski - Saski 2018 (https://saski2018.pl/) - Source of history information and images,
+- Polish historical website (https://historia.org.pl) - Source of history information and images,
+- Virtual World Guide (https://navtur.pl/) - Source of history information and images,
+- Saski website (https://palacsaski.pl/) - Source of history information and images,
+- Polish National Radio Broadcaster (https://www.polskieradio.pl/) - Source of history information and images,
+- The official website of the President of the Republic of Poland (https://www.president.pl/) - Source of information,
+- Warsaw City News website (https://warszawa.naszemiasto.pl/) - Source of information,
+- "Independent" Project (https://niepodlegla.gov.pl/) - Source of history information and images,
+- Wikipedia (https://pl.wikipedia.org/) - Source of history information and images,
+- YouTube (https://www.youtube.com/) - Source of video,
+- Grammarly (https://app.grammarly.com/) - help with grammar and typo check,
+- Google Maps (https://www.google.com/maps) - Source of the maps,
+- GitHub Community (https://github.com/) - Source of information, soluttions and suggestions,
+- Stack Overflow (https://stackoverflow.com/) - Source of knowledge.
 
   
 [Back to Table Of Contents](#table-of-contents)
@@ -410,8 +399,5 @@ To make a local clone of the project follow these steps:
 
 # Acknowledgments:
 
--
--
--
-  
+
 [Back to Table Of Contents](#table-of-contents)
