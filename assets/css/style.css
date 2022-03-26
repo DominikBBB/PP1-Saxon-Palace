@@ -26,8 +26,8 @@ img {
     /* max-width: 100vw; */
 }
 
-figcaption {
-    font-size: 12px;
+.figcaption {
+    font-size: 14px;
     text-align: center;
     color: #0e0e10;
     font-style: italic;
