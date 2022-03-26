@@ -25,8 +25,8 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
     2. [User Stories](#user-stories) +
     3. [Strategy](#strategy)
     4. [Scope](#scope) +
-    5. [Structure](#structure)
-    6. [Skeleton](#skeleton)+
+    5. [Structure](#structure) +
+    6. [Skeleton](#skeleton) +
         1. [Wireframes](#wireframes) +
         2. [Mockups](#mockups)
     7. [Surface](#surface)+
@@ -34,8 +34,8 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
         2. [Typography](#typography) +
         3. [Images & Icons](#images-&-icons) +
 3. [Features](#features)
-    1. [Current Features](#current-features)
-    2. [Future Features](#future-features)
+    1. [Existing Features](#existing-features)
+    2. [Future Features](#future-features) +
 4. [Technologies](#technologies) +
     1. [Languages](#languages) +
     2. [Other Technologies](#other-technologies) +
@@ -50,7 +50,9 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
 7. [Credits](#credits)
 8. [Acknowledgments](#acknowledgments) +
 
+
 ---
+
 
 # Project Overview:
 
@@ -59,9 +61,12 @@ Users will be able to understand why the Palace was established, rebilt, renovat
 
 This website will target all people, both local residents and turists, who want to explore past, present and future facts about the Old-New Saxon Palace.
 
+
 [Back to Table Of Contents](#table-of-contents)
 
+
 ---
+
 
 # User Experience UX:
 
@@ -72,9 +77,9 @@ This website will target all people, both local residents and turists, who want 
 - Local residents in Warsaw,
 - People of all ages.
 
+
 [Back to Table Of Contents](#table-of-contents)
 
----
 
 ## User Stories:
 
@@ -100,7 +105,6 @@ This website will target all people, both local residents and turists, who want 
 
 [Back to Table Of Contents](#table-of-contents)
 
----
 
 ## Strategy:
 
@@ -131,7 +135,6 @@ My goal in this project is to promote the Saxon Palace in Warsaw to the market t
 
 [Back to Table Of Contents](#table-of-contents)
 
----
 
 ## Scope:
 
@@ -150,19 +153,17 @@ My goal in this project is to promote the Saxon Palace in Warsaw to the market t
 - Maps,
 - Videos.
 
-[Back to Table Of Contents](#table-of-contents)
 
----
+[Back to Table Of Contents](#table-of-contents)
 
 
 ## Structure:
 
-The structure for the application has been thought out and designed to allow for the user to have a seamless and easy experience. A consistent minimalistic design will be implemented on all pages. The flow of the pages will feel natural and allow for the user to feel right at home after only viewing one page.
+The structure for the webpage has been thought out and designed to allow for the user to have a seamless and easy experience. A consistent minimalistic design will be implemented on all pages. The flow of the pages will feel natural and allow for the user to feel right at home after only viewing one page.
 
 
 [Back to Table Of Contents](#table-of-contents)
 
----
 
 ## Skeleton:
 
@@ -182,7 +183,6 @@ The structure for the application has been thought out and designed to allow for
 
 [Back to Table Of Contents](#table-of-contents)
 
----
 
 ## Surface:
 
@@ -214,9 +214,12 @@ I will use FontAwesome (https://fontawesome.com/) as the source for the icons.
 [Back to Table Of Contents](#table-of-contents)
 
 
+---
+
+
 # Features:
 
-## Current Features:
+## Existing Features:
 
 - Fully responsive design website,
 - An About Section which briefly presents information about The Saxon Palace and can help to answer the question why it is called The Old-New Saxon Palace,
@@ -232,9 +235,12 @@ I will use FontAwesome (https://fontawesome.com/) as the source for the icons.
 - Dark mode,
 - Event calendar with booking system,
 - Live camera from building site.
- 
+
 
 [Back to Table Of Contents](#table-of-contents)
+
+
+---
 
 
 # Technologies:
@@ -283,27 +289,53 @@ I will use FontAwesome (https://fontawesome.com/) as the source for the icons.
 [Back to Table Of Contents](#table-of-contents)
 
 
+---
+
+
 # Testing:
 
-- 
-- 
-- 
+This project is a static website using HTML5, CSS3 and Bootstrap5 framework. The test is covering:
+
+1. HTML/CSS validation,
+2. Testing website responsiveness (Chrome, Edge, Firefox, Galaxy S10),
+3. Website performance and best practise (Lighthouse Chrome Developer Tool),
+4. Visual aspects of the website: fonts and colour contrast (Chrome Developer Tool),
+5. Functionality - all links and buttons on each page working, contact form and layout,
+6. User stories test.
+
 
 ## Tests:
 
+### 1. HTML/CSS:
 
-### [HTML Validator](https://validator.w3.org/)
+[HTML Validator](https://validator.w3.org/)
+
+- []()
+
+[Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+
+- []()
+
+### 2. Browser testing:
+
+- [Chrome]()
+- [Firefox]()
+- [Edge]()
+- [GalaxyS10]()
+
+### 3. Performance Testing:
+
+- [Chrome Dev Tools - Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+
+### 4. Visual testing:
 
 - 
-### [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+
+### 5. Funcionality testing:
 
 - 
 
-### [Chrome Dev Tools - Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-
-- 
-
-### Testing User Stories:
+### 6. Testing User Stories:
 
 - 
 
@@ -319,6 +351,9 @@ I will use FontAwesome (https://fontawesome.com/) as the source for the icons.
 
 
 [Back to Table Of Contents](#table-of-contents)
+
+
+---
 
 
 # Deployment:
@@ -380,6 +415,9 @@ To make a local clone of the project follow these steps:
 [Back to Table Of Contents](#table-of-contents)
 
 
+---
+
+
 # Credits:
 
 - 
@@ -398,6 +436,10 @@ To make a local clone of the project follow these steps:
 
   
 [Back to Table Of Contents](#table-of-contents)
+
+
+---
+
 
 # Acknowledgments:
 
