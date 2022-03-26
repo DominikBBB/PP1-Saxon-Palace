@@ -20,42 +20,42 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
 
 # Table of Contents:
 
-1. [Project Overview](#project-overview) +
-2. [User Experience(UX)](#user-experience-ux) +
-    1. [Target Audience](#target-audience) +
-    2. [User Stories](#user-stories) +
-    3. [Strategy](#strategy) +
-    4. [Scope](#scope) +
-    5. [Structure](#structure) +
-    6. [Skeleton](#skeleton) +
-        1. [Wireframes](#wireframes) +
-        2. [Mockups](#mockups) +
-    7. [Surface](#surface) +
-        1. [Colours](#colours) +
-        2. [Typography](#typography) +
-        3. [Images & Icons](#images-&-icons) +
-3. [Features](#features) +
-    1. [Existing Features](#existing-features) +
-    2. [Future Features](#future-features) +
-4. [Technologies](#technologies) +
-    1. [Languages](#languages) +
-    2. [Other Technologies](#other-technologies) +
-    3. [Resources](#Resources) +
-5. [Testing](#testing) +
-    1. [Tests](#tests) +
-        1. [HTML/CSS](#html-css) +
-        2. [Manual testing Browser testing](#manual-testing-browser-testing) +
+1. [Project Overview](#project-overview)
+2. [User Experience(UX)](#user-experience-ux)
+    1. [Target Audience](#target-audience)
+    2. [User Stories](#user-stories)
+    3. [Strategy](#strategy)
+    4. [Scope](#scope)
+    5. [Structure](#structure)
+    6. [Skeleton](#skeleton)
+        1. [Wireframes](#wireframes)
+        2. [Mockups](#mockups)
+    7. [Surface](#surface)
+        1. [Colours](#colours)
+        2. [Typography](#typography)
+        3. [Images & Icons](#images-&-icons)
+3. [Features](#features)
+    1. [Existing Features](#existing-features)
+    2. [Future Features](#future-features)
+4. [Technologies](#technologies)
+    1. [Languages](#languages)
+    2. [Other Technologies](#other-technologies)
+    3. [Resources](#Resources)
+5. [Testing](#testing)
+    1. [Tests](#tests)
+        1. [HTML/CSS](#html-css)
+        2. [Manual testing Browser testing](#manual-testing-browser-testing)
         3. [Performance Testing](#performance-testing)
-        4. [Visual testing](#visual-testing) +
-        5. [Funcionality testing](#funcionality-testing) +
-        6. [Testing User Stories](#testing-user-stories) +
-    2. [Bugs and Fixes](#bugs-and-fixes) +
-6. [Deployment](#deployment) +
-    1. [GitHub Pages](#github-pages) +
-    2. [Forking Repository](#forking-the-github-repository) +
-    3. [Cloning the project](#cloning-the-project) +
-7. [Credits](#credits) +
-8. [Acknowledgments](#acknowledgments) +
+        4. [Visual testing](#visual-testing)
+        5. [Funcionality testing](#funcionality-testing)
+        6. [Testing User Stories](#testing-user-stories)
+    2. [Bugs and Fixes](#bugs-and-fixes)
+6. [Deployment](#deployment)
+    1. [GitHub Pages](#github-pages)
+    2. [Forking Repository](#forking-the-github-repository)
+    3. [Cloning the project](#cloning-the-project)
+7. [Credits](#credits)
+8. [Acknowledgments](#acknowledgments)
 
 
 ---
