@@ -42,13 +42,13 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
     3. [Resources](#Resources) +
 5. [Testing](#testing)
     1. [Tests](#tests)
-        1. [HTML/CSS](#html-css)
+        1. [HTML/CSS](#html-css) +
         2. [Manual testing Browser testing](#manual-testing-browser-testing)
         3. [Performance Testing](#performance-testing)
         4. [Visual testing](#visual-testing)
         5. [Funcionality testing](#funcionality-testing)
         6. [Testing User Stories](#testing-user-stories) +
-    2. [Bugs & Fixes](#bugs-&-fixes)
+    2. [Bugs & Fixes](#bugs-&-fixes) +
 6. [Deployment](#deployment) +
     1. [GitHub Pages](#github-pages) +
     2. [Forking Repository](#forking-the-github-repository) +
@@ -314,19 +314,19 @@ This project is a static website using HTML5, CSS3 and Bootstrap5 framework. The
 [HTML Validator](https://validator.w3.org/)
 
 
-![xxx](assets/images-testing/2022-03-26-16.png)
+![About Page](assets/images-testing/2022-03-26-16.png)
 
-![xxx](assets/images-testing/2022-03-26-28.png)
+![History Page](assets/images-testing/2022-03-26-28.png)
 
-![xxx](assets/images-testing/2022-03-26-30.png)
+![Gallery Page](assets/images-testing/2022-03-26-30.png)
 
-![xxx](assets/images-testing/2022-03-26-32.png)
+![Contact Page](assets/images-testing/2022-03-26-32.png)
 
 
 [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 
 
-![xxx](assets/images-testing/2022-03-26-33.png)
+![CSS file](assets/images-testing/2022-03-26-33.png)
 
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
@@ -443,9 +443,9 @@ There is the contact form for easy way to submit any enquirie, email addres and 
 
 ## Bugs & Fixes:
 
-- 
-- 
-- 
+A few numbers of bugs showed up during the HTML and CSS validation process. They are fixed and all pages passed validation process. Full list of bugs and validation results after they were fixed [Bugs and Fixes](TESTING.md)
+
+No more errors found. 
 
 
 [Back to Table Of Contents](#table-of-contents)
