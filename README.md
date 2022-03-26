@@ -29,7 +29,7 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
     5. [Structure](#structure) +
     6. [Skeleton](#skeleton) +
         1. [Wireframes](#wireframes) +
-        2. [Mockups](#mockups)
+        2. [Mockups](#mockups) +
     7. [Surface](#surface)+
         1. [Colours](#colours) +
         2. [Typography](#typography) +
@@ -182,10 +182,10 @@ The structure for the webpage has been thought out and designed to allow for the
 ### Mockups:
 
 
-![Mockups](assets/images-readme/MP-01-About.png)
-![Mockups](assets/images-readme/MP-02-History.png)
-![Mockups](assets/images-readme/MP-03-Gallery.png)
-![Mockups](assets/images-readme/MP-04-Contact.png)
+![About Page](assets/images-readme/MP-01-About.png)
+![History Page](assets/images-readme/MP-02-History.png)
+![Gallery Page](assets/images-readme/MP-03-Gallery.png)
+![Contact Page](assets/images-readme/MP-04-Contact.png)
 
 
 [Back to Table Of Contents](#table-of-contents)
