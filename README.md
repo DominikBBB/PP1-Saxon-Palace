@@ -279,7 +279,8 @@ I will use FontAwesome (https://fontawesome.com/) as the source for the icons.
 - [Grammarly](https://app.grammarly.com/) - help with grammar and typo check,
 - [Google Maps](https://www.google.com/maps) - Source of the maps,
 - [GitHub Community](https://github.com/) - Source of information, soluttions and suggestions,
-- [Stack Overflow](https://stackoverflow.com/) - Source of knowledge.
+- [Stack Overflow](https://stackoverflow.com/) - Source of knowledge,
+- [MDN Web Docs](https://developer.mozilla.org/) - Source of knowledge.
 
   
 [Back to Table Of Contents](#table-of-contents)
@@ -413,19 +414,29 @@ To make a local clone of the project follow these steps:
 
 ---
 
+Lines of code from walkthrough projects,
+- Polish National Digital Archive - content for historical information and images,
+
+
 
 # Credits:
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- [Code Institute Course Content](https://learn.codeinstitute.net/dashboard) - Lines of code from walkthrough projects,
+- [Polish National Digital Archive](https://www.nac.gov.pl/) - content for historical information and images,
+- [Palac Saski - Saski 2018](https://saski2018.pl/) - content for historical information and images,
+- [Polish historical website](https://historia.org.pl) - content for historical information and images,
+- [Virtual World Guide](https://navtur.pl/) - content for historical information and images,
+- [Saski website](https://palacsaski.pl/) - content for historical information and images,
+- [Polish National Radio Broadcaster](https://www.polskieradio.pl/) - content for historical information and images,
+- [The official website of the President of the Republic of Poland](https://www.president.pl/) - content for information and images,
+- [Warsaw City News website](https://warszawa.naszemiasto.pl/) - Source of information,
+- ["Independent" Project](https://niepodlegla.gov.pl/) - content for historical information and images,
+- [Wikipedia](https://pl.wikipedia.org/) - content for historical information and images,
+- [YouTube](https://www.youtube.com/) - the video of the Saxon Palace reconstruction,
+- [GitHub Community](https://github.com/) - suggestions for lines of code and descriptions in read.me,
+- [Stack Overflow](https://stackoverflow.com/) - suggestions for lines of code,
+- [Grepper Community](https://www.codegrepper.com/) - suggestions for lines of code,
+- [Bootstrap 5](https://getbootstrap.com/) - suggestions for lines of code,
 - 
 - 
 
@@ -442,7 +453,9 @@ To make a local clone of the project follow these steps:
 I would like to thank:
 
 - My mentor Chris Quinn for his helpful and valuable feedback and guidance and great support,
-- Slack #polish-community and #jan-2022-sb-5p groups for their suggestions and support.
+- Tutor support at Code Institute for their support,
+- Slack #polish-community and #jan-2022-sb-5p groups for their suggestions and creative feedback,
+- Friends and family for helping me with testing and mental support.
 
 
 [Back to Table Of Contents](#table-of-contents)
