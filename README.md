@@ -51,9 +51,6 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
         6. [Testing User Stories](#testing-user-stories)
     2. [Bugs and Fixes](#bugs-and-fixes)
 6. [Deployment](#deployment)
-    1. [GitHub Pages](#github-pages)
-    2. [Forking Repository](#forking-the-github-repository)
-    3. [Cloning the project](#cloning-the-project)
 7. [Credits](#credits)
 8. [Acknowledgments](#acknowledgments)
 
@@ -92,7 +89,7 @@ This website will target all people, both local residents and turists, who want 
 
 - First time user:
 
-  1. As a user I would like to quickly know what the Saxon Palace in Wasaw is,
+  1. As a user I would like to quickly know what the Saxon Palace in Warsaw is,
   2. As a user I would like to be able to see pictures, video and locate the place on the maps,
   3. As a user I want the application to be easy to navigate / single-use learning.
 
@@ -418,7 +415,7 @@ Color contrast was tested using:
 
 #### First time user:
 
-1. As a user I would like to quickly know what the Saxon Palace in Wasaw is
+1. As a user I would like to quickly know what the Saxon Palace in Warsaw is
 
 On the Homepage visitor will find all quick information about The Old-New Saxon Palace.
 
@@ -465,7 +462,10 @@ There are plenty of pictures showing past, presents and future of the Saxon Pala
 
 4. I want to provide easy access to the promotor to submit questions
 
-There is the contact form for easy way to submit any enquirie, email addres and phone number.
+There is the contact form for easy way to submit enquiries, email address and phone number.
+
+
+All user expectations were fulfilled and tested to ensure user satisfaction.
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -503,41 +503,6 @@ The steps to deploy via GitHub pages are as follows:
 9. Site deployed.
 
 When the above steps have been completed, it can sometimes take a little while for the deployed URL to update, So just keep checking back and refreshing the page until your site is visible.
-
-  
-[Back to Table Of Contents](#table-of-contents)
-
-
-## Forking The GitHub Repository:
-
-To use this code and make changes without affecting the original code you can do what is called 'Forking the repository'. By forking this repository you are given a copy of the code at that moment in time that you can use freely. To fork this repository you need to follow the following few steps:
-
-1. Log into your GitHub account.
-2. Navigate to the [Repository](https://github.com/DominikBBB/PP1-Saxon-Palace), you are wanting to fork.
-3. In the upper-right of the repository, click the 'Fork' button.
-4. A copy of the Repository will now be available within your repositories.
-
-You will now have a copy of the code available to clone and work on without affecting the original code.
-
-  
-[Back to Table Of Contents](#table-of-contents)
-
-
-## Cloning the Project:
-
-To make a local clone of the project follow these steps:
-
-1. Log into your GitHub account.
-2. Navigate to the [Repository](https://github.com/DominikBBB/PP1-Saxon-Palace).
-3. In the upper section of the repository click the dropdown named 'Code'.
-4. Copy the SHH address.
-5. Open GitBash
-6. Navigate to the correct directory.
-7. Create a new directory named 'the-tipsy-quiz'.
-8. CD into 'the-tipsy-quiz'.
-9. Enter 'git clone SSH_ADDRESS'
-10. GitBash will clone the repository into this directory.
-11. enter 'code .' and this will open VS CODE and happy coding.
 
   
 [Back to Table Of Contents](#table-of-contents)
