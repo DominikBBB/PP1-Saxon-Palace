@@ -313,11 +313,37 @@ This project is a static website using HTML5, CSS3 and Bootstrap5 framework. The
 
 [HTML Validator](https://validator.w3.org/)
 
-- []()
+
+![xxx](assets/images-testing/2022-03-26-16.png)
+
+![xxx](assets/images-testing/2022-03-26-28.png)
+
+![xxx](assets/images-testing/2022-03-26-30.png)
+
+![xxx](assets/images-testing/2022-03-26-32.png)
+
 
 [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 
-- []()
+
+![xxx](assets/images-testing/2022-03-26-33.png)
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+            
+Valid CSS!
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
 
 [Back to Table Of Contents](#table-of-contents)
