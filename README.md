@@ -389,7 +389,20 @@ All tests completed and passed.
 
 ### Funcionality testing:
 
+- All pages are responsive. No bugs found.
+- All menu links to the other pages work. No bugs found.
+- All links with photos to gallery page work. No bugs found.
+- All social media links work. Hovering social media icons animation works. No bugs found.
+- Animation on the picture on the homepage works on any screen. No bugs found.
+- All links with logos to homepage works. No bugs found.
+- Link with map on the footer works. No bugs found.
+- Responsive disappearing of two columns in the footer when the page is shown on small screens work. No bugs found.
+- Responsive flow of 2 columns in the header when the page is shown on small screens work. No bugs found.
+- YT Video stream works. No bugs found.
 - 
+
+
+- Due to that the page is not live the contact form doesn’t work.
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -454,7 +467,7 @@ There is the contact form for easy way to submit any enquirie, email addres and 
 
 ## Bugs and Fixes:
 
-A few numbers of bugs showed up during the HTML and CSS validation process. They are fixed and all pages passed validation process. Full list of bugs and validation results after they were fixed [Bugs and Fixes](TESTING.md)
+A few numbers of bugs showed up during the HTML and CSS validation process. They are all fixed and all pages passed validation process. Full list of bugs and validation results after they were fixed: [Bugs and Fixes](TESTING.md)
 
 No more errors found.
 
