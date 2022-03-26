@@ -375,6 +375,9 @@ All tests completed and passed.
 
 - [Chrome Dev Tools - Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
+[Test results](TESTING-2.md)
+
+All test completed and passed.
 
 [Back to Table Of Contents](#table-of-contents)
 
