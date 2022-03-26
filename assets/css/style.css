@@ -37,7 +37,7 @@ figcaption {
 
 header {
     width: 100%;
-    min-height: 60px;
+    min-height: 55px;
     position: fixed;
     background-color: inherit;
     top: 0;
@@ -54,7 +54,7 @@ header {
 #logo1 {    
     /* float: right; */
     background-color: #c7c7d1;
-    height: 60px;
+    height: 55px;
     width: 150px;
     border: none;
 }
@@ -203,7 +203,7 @@ section div {
 
 footer {
     width: 100%;
-    min-height: 60px;
+    max-height: 50px;
     background-color: #c7c7d1;
     position: fixed;
     bottom: 0;
@@ -215,21 +215,15 @@ footer {
     text-align: center;
 }
 
-/* ---------------------------------------------- map small */
+/* ---------------------------------------------- logo bttm */
 
-.mapouter2 {
-    /* float: left; */
+#logo2 {
+    /* float: right; */
     margin: 0 auto;
-    height: 60px;
+    background-color: #c7c7d1;
+    height: 55px;
     width: 150px;
-}
-
-.gmap_canvas2 {
-    overflow: hidden;
-    background: none !important;
-    height: 60px;
-    width: 150px;
-    text-align: center;
+    border: none;
 }
 
 /* ---------------------------------------------- social links */
@@ -255,15 +249,21 @@ footer {
     background: rgba(255, 76, 60, 0.9);
 }
 
-/* ---------------------------------------------- logo bttm */
+/* ---------------------------------------------- map small */
 
-#logo2 {
-    /* float: right; */
+.mapouter2 {
+    /* float: left; */
     margin: 0 auto;
-    background-color: #c7c7d1;
-    height: 60px;
+    height: 50px;
     width: 150px;
-    border: none;
+}
+
+.gmap_canvas2 {
+    overflow: hidden;
+    background: none !important;
+    height: 50px;
+    width: 150px;
+    text-align: center;
 }
 
 /* ---------------------------------------------- timeline */
@@ -274,10 +274,14 @@ footer {
 }
 
 .timeline-item {
-    padding: 4em 2em 0em 2em;
+    padding: 4em 0 0 2em;
     position: relative;
     color: #0e0e10;
     border-left: 1px dashed;    
+}
+
+.timeline-item h3 {
+    text-align: left;
 }
 
 .timeline-item p {
@@ -295,7 +299,7 @@ footer {
     top: 2em;
     display: block;
     font-weight: 500;
-    font-size: 1em;
+    /* font-size: 1em; */
     padding: 0;
     margin: 0;
 }
@@ -371,7 +375,7 @@ footer {
 }
 
 .form-control {
-    margin: 10px;
+    margin: 10px 10px 10px 0;
 }
 
 button[type="submit"] {
@@ -442,7 +446,7 @@ button[type="submit"] {
 @media screen and (max-width: 768px) {
 
     body {
-        font-size: 12px;
+        font-size: 13px;
     }
 
     #menu {

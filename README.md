@@ -247,43 +247,43 @@ I will use FontAwesome (https://fontawesome.com/) as the source for the icons.
 
 ## Languages:
 
-- [HTML5] (https://en.wikipedia.org/wiki/HTML5),
-- [CSS3] (https://en.wikipedia.org/wiki/CSS).
+- [HTML5](https://en.wikipedia.org/wiki/HTML5),
+- [CSS3](https://en.wikipedia.org/wiki/CSS).
 
 ## Other Technologies:
 
-- [Gitpd & Git] (https://gitpod.io/),
-- [Visual Studio Code] (https://code.visualstudio.com/),
-- [GitHub] (https://github.com/),
-- [Bootstrap 5] (https://getbootstrap.com/),
-- [Chrome Developer Tools] (https://developer.chrome.com/docs/devtools/),
-- [Lighthouse] (https://developers.google.com/web/tools/lighthouse),
-- [W3school] (https://www.w3schools.com/),
-- [Color Palette Generator] (https://coolors.co/),
-- [Contrast Checker] (https://webaim.org/resources/contrastchecker/),
-- [Responsive Design] (http://ami.responsivedesign.is/),
-- [Google Fonts] (https://fonts.google.com/),
-- [Font Awesome] (https://fontawesome.com/).
+- [Gitpd & Git](https://gitpod.io/),
+- [Visual Studio Code](https://code.visualstudio.com/),
+- [GitHub](https://github.com/),
+- [Bootstrap 5](https://getbootstrap.com/),
+- [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/),
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse),
+- [W3school](https://www.w3schools.com/),
+- [Color Palette Generator](https://coolors.co/),
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/),
+- [Responsive Design](http://ami.responsivedesign.is/),
+- [Google Fonts](https://fonts.google.com/),
+- [Font Awesome](https://fontawesome.com/).
 
 ## Resources:
 
-- [Code Institute Course Content] (https://learn.codeinstitute.net/dashboard) - Main source of fundamental knowledge,
+- [Code Institute Course Content](https://learn.codeinstitute.net/dashboard) - Main source of fundamental knowledge,
 - [Code Institute SLACK Community] - Source of assistance,
-- [Polish National Digital Archive] (https://www.nac.gov.pl/) - Source of history information and images,
-- [Palac Saski - Saski 2018] (https://saski2018.pl/) - Source of history information and images,
-- [Polish historical website] (https://historia.org.pl) - Source of history information and images,
-- [Virtual World Guide] (https://navtur.pl/) - Source of history information and images,
-- [Saski website] (https://palacsaski.pl/) - Source of history information and images,
-- [Polish National Radio Broadcaster] (https://www.polskieradio.pl/) - Source of history information and images,
-- [The official website of the President of the Republic of Poland] (https://www.president.pl/) - Source of information,
-- [Warsaw City News website] (https://warszawa.naszemiasto.pl/) - Source of information,
-- ["Independent" Project] (https://niepodlegla.gov.pl/) - Source of history information and images,
-- [Wikipedia] (https://pl.wikipedia.org/) - Source of history information and images,
-- [YouTube] (https://www.youtube.com/) - Source of video,
-- [Grammarly] (https://app.grammarly.com/) - help with grammar and typo check,
-- [Google Maps] (https://www.google.com/maps) - Source of the maps,
-- [GitHub Community] (https://github.com/) - Source of information, soluttions and suggestions,
-- [Stack Overflow] (https://stackoverflow.com/) - Source of knowledge.
+- [Polish National Digital Archive](https://www.nac.gov.pl/) - Source of history information and images,
+- [Palac Saski - Saski 2018](https://saski2018.pl/) - Source of history information and images,
+- [Polish historical website](https://historia.org.pl) - Source of history information and images,
+- [Virtual World Guide](https://navtur.pl/) - Source of history information and images,
+- [Saski website](https://palacsaski.pl/) - Source of history information and images,
+- [Polish National Radio Broadcaster](https://www.polskieradio.pl/) - Source of history information and images,
+- [The official website of the President of the Republic of Poland](https://www.president.pl/) - Source of information,
+- [Warsaw City News website](https://warszawa.naszemiasto.pl/) - Source of information,
+- ["Independent" Project](https://niepodlegla.gov.pl/) - Source of history information and images,
+- [Wikipedia](https://pl.wikipedia.org/) - Source of history information and images,
+- [YouTube](https://www.youtube.com/) - Source of videos,
+- [Grammarly](https://app.grammarly.com/) - help with grammar and typo check,
+- [Google Maps](https://www.google.com/maps) - Source of the maps,
+- [GitHub Community](https://github.com/) - Source of information, soluttions and suggestions,
+- [Stack Overflow](https://stackoverflow.com/) - Source of knowledge.
 
   
 [Back to Table Of Contents](#table-of-contents)
