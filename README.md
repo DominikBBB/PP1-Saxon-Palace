@@ -41,13 +41,13 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
     1. [Languages](#languages) +
     2. [Other Technologies](#other-technologies) +
     3. [Resources](#Resources) +
-5. [Testing](#testing)
-    1. [Tests](#tests)
+5. [Testing](#testing) +
+    1. [Tests](#tests) +
         1. [HTML/CSS](#html-css) +
-        2. [Manual testing Browser testing](#manual-testing-browser-testing)
+        2. [Manual testing Browser testing](#manual-testing-browser-testing) +
         3. [Performance Testing](#performance-testing)
-        4. [Visual testing](#visual-testing)
-        5. [Funcionality testing](#funcionality-testing)
+        4. [Visual testing](#visual-testing) +
+        5. [Funcionality testing](#funcionality-testing) +
         6. [Testing User Stories](#testing-user-stories) +
     2. [Bugs and Fixes](#bugs-and-fixes) +
 6. [Deployment](#deployment) +
@@ -381,7 +381,12 @@ All tests completed and passed.
 
 ### Visual testing:
 
-- 
+Color contrast was tested using:
+
+- [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+
+ All tests completed and passed.
 
 
 [Back to Table Of Contents](#table-of-contents)
