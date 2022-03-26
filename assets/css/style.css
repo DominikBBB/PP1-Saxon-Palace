@@ -181,6 +181,10 @@ nav {
     margin: 0 auto;
 }
 
+#vframe {
+    border: 0;
+}
+
 /* ---------------------------------------------- map big */
 
 #map_bottom {
@@ -210,6 +214,7 @@ nav {
     /* height: 400px;
     width: 720px; */
     padding: 0;
+    border: 0;
 }
 
 
