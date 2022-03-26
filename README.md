@@ -23,7 +23,7 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
 2. [User Experience(UX)](#user-experience-ux) +
     1. [Target Audience](#target-audience) +
     2. [User Stories](#user-stories) +
-    3. [Strategy](#strategy)
+    3. [Strategy](#strategy) +
     4. [Scope](#scope) +
     5. [Structure](#structure) +
     6. [Skeleton](#skeleton) +
@@ -57,7 +57,7 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
 # Project Overview:
 
 The Old-New Saxon Palace website is a landing page for people interested in the historical facts of The Saxon Palace in Warsaw.
-Users will be able to understand why the Palace was established, rebilt, renovated, sold, bought, occupied and destroyed. User will also see proposal and videos how the Saxon Palace will be restored. This website will present the history of the palace in timeline order and in extensive photo gallery. Users will be able to find links to social media platforms and contact information and also form to send the message if they need more information or just sign up for a newsletter.
+Users will be able to understand why the Palace was established, rebilt, renovated, sold, bought, occupied and destroyed. User will also see proposal and videos how the Saxon Palace will be restored. This website will present the history of the palace in timeline order and in extensive photo gallery. Users will be able to find links to social media platforms and contact information and also the contact form to send the message if they need more information or just sign up for a newsletter.
 
 This website will target all people, both local residents and turists, who want to explore past, present and future facts about the Old-New Saxon Palace.
 
@@ -86,7 +86,7 @@ This website will target all people, both local residents and turists, who want 
 - First time user:
 
   1. As a user I would like to quickly know what the Saxon Palace in Wasaw is,
-  2. As a user I would like to be able to see pictures, video and maps,
+  2. As a user I would like to be able to see pictures, video and locate the place on the maps,
   3. As a user I want the application to be easy to navigate / single-use learning.
 
 - Returning User:
@@ -108,29 +108,25 @@ This website will target all people, both local residents and turists, who want 
 
 ## Strategy:
 
-- 1
-- 2
-- 3
-
-My goal in this project is to promote the Saxon Palace in Warsaw to the market to allow the users learn about history of the Palace and to raise the awareness of the purpose of the reconstruction.
-
 ### Project Goals:
 
-- 1
-- 2
-- 3
+My goal in this project is to promote the Saxon Palace in Warsaw to the market to allow the users learn about history of the Palace and to raise the awareness of the purpose of the reconstruction. 
 
 ### Business Goals:
 
-- 1
-- 2
-- 3
+1. Promote the Saxon Palace and its surroundings,
+2. Encourage visitors to explore this historical place,
+3. Provide useful information about Old Saxon Palace and its reconstruction,
+4. Provide the contact form, so the users will be able to send enquiries,
+5. Include short video to promote New Saxon Palace,
+6. Include the map with the location of Old Saxon Palace.
 
 ### Customer Goals:
 
-- 1
-- 2
-- 3
+1. Easy to find information about The Saxon Palace in Warsaw,
+2. Easy to use application on mobile devices with user-friendly site navigation,  
+3. Easy to find more information through links to social media,
+4. Easy to find contact form for sending enquiries.
 
 
 [Back to Table Of Contents](#table-of-contents)

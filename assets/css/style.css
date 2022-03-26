@@ -37,7 +37,9 @@ figcaption {
 
 header {
     width: 100%;
-    min-height: 55px;
+    min-height: 50px;
+    /* max-height: 50px; */
+    /* min-height: clamp() */
     position: fixed;
     background-color: inherit;
     top: 0;
@@ -69,7 +71,7 @@ nav {
 #menu {
     font-size: 70%;
     letter-spacing: 2px;
-    line-height: 30px;
+    line-height: 20px;
     text-align: center;
     /* vertical-align: middle; */
     /* margin: auto; */
