@@ -47,13 +47,13 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
         3. [Performance Testing](#performance-testing)
         4. [Visual testing](#visual-testing)
         5. [Funcionality testing](#funcionality-testing)
-        6. [Testing User Stories](#testing-user-stories)
+        6. [Testing User Stories](#testing-user-stories) +
     2. [Bugs & Fixes](#bugs-&-fixes)
 6. [Deployment](#deployment) +
     1. [GitHub Pages](#github-pages) +
     2. [Forking Repository](#forking-the-github-repository) +
     3. [Cloning the project](#cloning-the-project) +
-7. [Credits](#credits)
+7. [Credits](#credits) +
 8. [Acknowledgments](#acknowledgments) +
 
 
