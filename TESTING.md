@@ -1,4 +1,4 @@
-## HTML
+# HTML
 
 ![xxx](assets/images-testing/2022-03-26-06.png)
 ![xxx](assets/images-testing/2022-03-26-08.png)
@@ -35,7 +35,7 @@
 
 ---
 
-## CSS
+# CSS
 
 ![xxx](assets/images-testing/2022-03-26-33.png)
 
@@ -55,5 +55,3 @@ Valid CSS!
             alt="Valid CSS!" />
     </a>
 </p>
-
----

@@ -1,3 +1,12 @@
+# Performance testing:
+
+![xxx](assets/images-readme/2022-03-26-90.png)
+![xxx](assets/images-readme/2022-03-26-91.png)
+![xxx](assets/images-readme/2022-03-26-93.png)
+![xxx](assets/images-readme/2022-03-26-94.png)
+
+# Manual testing:
+
 ![xxx](assets/images-testing2/2022-03-26-52.png)
 ![xxx](assets/images-testing2/2022-03-26-53.png)
 ![xxx](assets/images-testing2/2022-03-26-54.png)

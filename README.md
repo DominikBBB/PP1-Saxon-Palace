@@ -403,9 +403,7 @@ Color contrast was tested using:
 - Link with map on the footer works. No bugs found.
 - Responsive disappearing of two columns in the footer when the page is shown on small screens work. No bugs found.
 - Responsive flow of 2 columns in the header when the page is shown on small screens work. No bugs found.
-- YT Video stream works. No bugs found.
-- 
-
+- YT Video streaming works. Video frame is responsive. No bugs found.
 
 - Due to that the page is not live the contact form doesn’t work.
 
