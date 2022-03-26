@@ -6,7 +6,8 @@
 
 ---
 
-![Example of the application on multiple devices.](/xxxassets/images/readme-images/amiresponsive.png)
+<p align="center"> <img src="assets/images-readme/MP-01-About.png" alt="Mockup of Homepage" /> </p>
+
 
 ---
 
@@ -48,7 +49,7 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
         4. [Visual testing](#visual-testing)
         5. [Funcionality testing](#funcionality-testing)
         6. [Testing User Stories](#testing-user-stories) +
-    2. [Bugs & Fixes](#bugs-&-fixes) +
+    2. [Bugs and Fixes](#bugs-and-fixes) +
 6. [Deployment](#deployment) +
     1. [GitHub Pages](#github-pages) +
     2. [Forking Repository](#forking-the-github-repository) +
@@ -180,7 +181,11 @@ The structure for the webpage has been thought out and designed to allow for the
 
 ### Mockups:
 
-![Mockups]()
+
+![Mockups](assets/images-readme/MP-01-About.png)
+![Mockups](assets/images-readme/MP-02-History.png)
+![Mockups](assets/images-readme/MP-03-Gallery.png)
+![Mockups](assets/images-readme/MP-04-Contact.png)
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -441,7 +446,7 @@ There is the contact form for easy way to submit any enquirie, email addres and 
 [Back to Table Of Contents](#table-of-contents)
 
 
-## Bugs & Fixes:
+## Bugs and Fixes:
 
 A few numbers of bugs showed up during the HTML and CSS validation process. They are fixed and all pages passed validation process. Full list of bugs and validation results after they were fixed [Bugs and Fixes](TESTING.md)
 
@@ -451,7 +456,6 @@ No more errors found.
 [Back to Table Of Contents](#table-of-contents)
 
 
----
 ---
 
 
