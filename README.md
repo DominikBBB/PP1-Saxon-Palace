@@ -30,12 +30,12 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
     6. [Skeleton](#skeleton) +
         1. [Wireframes](#wireframes) +
         2. [Mockups](#mockups) +
-    7. [Surface](#surface)+
+    7. [Surface](#surface) +
         1. [Colours](#colours) +
         2. [Typography](#typography) +
         3. [Images & Icons](#images-&-icons) +
-3. [Features](#features)
-    1. [Existing Features](#existing-features)
+3. [Features](#features) +
+    1. [Existing Features](#existing-features) +
     2. [Future Features](#future-features) +
 4. [Technologies](#technologies) +
     1. [Languages](#languages) +
@@ -154,7 +154,8 @@ My goal in this project is to promote the Saxon Palace in Warsaw to the market t
 
 - Dark mode,
 - Maps,
-- Videos.
+- Videos,
+- Polish language version.
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -241,7 +242,8 @@ I will use [FontAwesome](https://fontawesome.com/) as the source for the icons.
 
 - Dark mode,
 - Event calendar with booking system,
-- Live camera from building site.
+- Live camera from building site,
+- Polish language version.
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -350,16 +352,20 @@ Valid CSS!
     </a>
 </p>
 
+All tests completed and passed.
+
 
 [Back to Table Of Contents](#table-of-contents)
 
 
 ### Manual testing Browser testing:
 
-- [Chrome]()
-- [Firefox]()
-- [Edge]()
-- [GalaxyS10]()
+- [Chrome](TESTING-2.md)
+- [Firefox](TESTING-2.md)
+- [Edge](TESTING-2.md)
+- [GalaxyS10](TESTING-2.md)
+
+All tests completed and passed.
 
 
 [Back to Table Of Contents](#table-of-contents)
