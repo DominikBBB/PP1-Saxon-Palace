@@ -445,12 +445,13 @@ There is the contact form for easy way to submit any enquirie, email addres and 
 
 A few numbers of bugs showed up during the HTML and CSS validation process. They are fixed and all pages passed validation process. Full list of bugs and validation results after they were fixed [Bugs and Fixes](TESTING.md)
 
-No more errors found. 
+No more errors found.
 
 
 [Back to Table Of Contents](#table-of-contents)
 
 
+---
 ---
 
 
