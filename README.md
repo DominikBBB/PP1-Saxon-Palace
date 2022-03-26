@@ -42,6 +42,12 @@ This is my Portfolio Project 1 (PP1) which is a part of the Code Institute’s F
     3. [Resources](#Resources) +
 5. [Testing](#testing)
     1. [Tests](#tests)
+        1. [HTML/CSS](#html-css)
+        2. [Manual testing Browser testing](#manual-testing-browser-testing)
+        3. [Performance Testing](#performance-testing)
+        4. [Visual testing](#visual-testing)
+        5. [Funcionality testing](#funcionality-testing)
+        6. [Testing User Stories](#testing-user-stories)
     2. [Bugs & Fixes](#bugs-&-fixes)
 6. [Deployment](#deployment) +
     1. [GitHub Pages](#github-pages) +
@@ -203,8 +209,8 @@ I have picked fonts 'Brygada 1918' typeface is based on the catalogue entry of t
 
 ### Images & Icons:
 
-There will be multiple images used on the website. The main source is Polish National Digital Archive (https://www.nac.gov.pl/).
-I will use FontAwesome (https://fontawesome.com/) as the source for the icons.
+There will be multiple images used on the website. The main source is [Polish National Digital Archive](https://www.nac.gov.pl/).
+I will use [FontAwesome](https://fontawesome.com/) as the source for the icons.
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -303,7 +309,7 @@ This project is a static website using HTML5, CSS3 and Bootstrap5 framework. The
 
 ## Tests:
 
-### 1. HTML/CSS:
+### HTML CSS:
 
 [HTML Validator](https://validator.w3.org/)
 
@@ -313,28 +319,48 @@ This project is a static website using HTML5, CSS3 and Bootstrap5 framework. The
 
 - []()
 
-### 2. Browser testing:
+
+[Back to Table Of Contents](#table-of-contents)
+
+
+### Manual testing Browser testing:
 
 - [Chrome]()
 - [Firefox]()
 - [Edge]()
 - [GalaxyS10]()
 
-### 3. Performance Testing:
+
+[Back to Table Of Contents](#table-of-contents)
+
+
+### Performance Testing:
 
 - [Chrome Dev Tools - Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
-### 4. Visual testing:
+
+[Back to Table Of Contents](#table-of-contents)
+
+
+### Visual testing:
 
 - 
 
-### 5. Funcionality testing:
+
+[Back to Table Of Contents](#table-of-contents)
+
+
+### Funcionality testing:
 
 - 
 
-### 6. Testing User Stories:
 
-##### First time user:
+[Back to Table Of Contents](#table-of-contents)
+
+
+### Testing User Stories:
+
+#### First time user:
 
 1. As a user I would like to quickly know what the Saxon Palace in Wasaw is
 
@@ -350,7 +376,7 @@ On Gallery page visitor will find pictures.
 The website was designed for mobile-first approach. All Pages contain a Navigation Bar Menu to allow users to navigate through the content easily with the current page menu link underlined for more clarity. Header and footer are the same on all pages and contain the logos of the Saxon Palace with the link to the homepage, navigation bar with links to the other sub-pages, and the map with link to the external google maps page.
 
 
-##### Returning User:
+#### Returning User:
 
 1. I would want to be able to navigate the site with ease
 
@@ -367,7 +393,7 @@ On the Contact page visitor will find the promotor's address, e-mail, phone and 
 There are also links to the social media in the footer.
 
 
-##### As a site creator:
+#### As a site creator:
 
 1. I want to make the site user friendly
 
@@ -384,7 +410,6 @@ There are plenty of pictures showing past, presents and future of the Saxon Pala
 4. I want to provide easy access to the promotor to submit questions
 
 There is the contact form for easy way to submit any enquirie, email addres and phone number.
-
 
 
 [Back to Table Of Contents](#table-of-contents)
