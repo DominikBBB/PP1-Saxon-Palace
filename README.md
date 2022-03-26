@@ -334,7 +334,57 @@ This project is a static website using HTML5, CSS3 and Bootstrap5 framework. The
 
 ### 6. Testing User Stories:
 
-- 
+##### First time user:
+
+1. As a user I would like to quickly know what the Saxon Palace in Wasaw is
+
+On the Homepage visitor will find all quick information about The Old-New Saxon Palace.
+
+2. As a user I would like to be able to see pictures, video and locate the place on the maps
+
+On the Homepage/About Page visitor will find pictures and video and map.
+On Gallery page visitor will find pictures.
+
+3. As a user I want the application to be easy to navigate / single-use learning
+
+The website was designed for mobile-first approach. All Pages contain a Navigation Bar Menu to allow users to navigate through the content easily with the current page menu link underlined for more clarity. Header and footer are the same on all pages and contain the logos of the Saxon Palace with the link to the homepage, navigation bar with links to the other sub-pages, and the map with link to the external google maps page.
+
+
+##### Returning User:
+
+1. I would want to be able to navigate the site with ease
+
+All Pages contain a Navigation Bar Menu to allow users to navigate through the content easily with the current page menu link underlined for more clarity.
+
+2. I would want to be able to learn about historical facts in details
+
+On History Page visitor will find timeline with pictures (with links to gallery page) and history of the palace.
+On Gallery page visitor will find gallery with large amount of pictures
+
+3. I would want to and stay in touch with the promotor of the site
+
+On the Contact page visitor will find the promotor's address, e-mail, phone and fax number. They also can find there The contact form to send enquiries.
+There are also links to the social media in the footer.
+
+
+##### As a site creator:
+
+1. I want to make the site user friendly
+
+The website was designed for mobile-first approach. All Pages contain a Navigation Bar Menu to allow users to navigate through the content easily with the current page menu link underlined for more clarity. The colours have been picked to maintain a simplified viewing pleasure. Right font-size was chosen for comfort of reading.
+
+2. I want to make sure the user finds complex evidence-based information
+
+All content is based on information from the genuine sources like Polish president website, Polish government's websites, Polish national archives, Polish National Radio broadcaster website.
+
+3. I want to ensure there are enough text and media information to prevent the user from becoming bored
+
+There are plenty of pictures showing past, presents and future of the Saxon Palace. There is a video about reconstruction of the palace. Maps to localise the area of the palace.
+
+4. I want to provide easy access to the promotor to submit questions
+
+There is the contact form for easy way to submit any enquirie, email addres and phone number.
+
 
 
 [Back to Table Of Contents](#table-of-contents)
@@ -414,10 +464,6 @@ To make a local clone of the project follow these steps:
 
 ---
 
-Lines of code from walkthrough projects,
-- Polish National Digital Archive - content for historical information and images,
-
-
 
 # Credits:
 
@@ -436,10 +482,7 @@ Lines of code from walkthrough projects,
 - [GitHub Community](https://github.com/) - suggestions for lines of code and descriptions in read.me,
 - [Stack Overflow](https://stackoverflow.com/) - suggestions for lines of code,
 - [Grepper Community](https://www.codegrepper.com/) - suggestions for lines of code,
-- [Bootstrap 5](https://getbootstrap.com/) - suggestions for lines of code,
-- 
-- 
-
+- [Bootstrap 5](https://getbootstrap.com/) - suggestions for lines of code.
 
   
 [Back to Table Of Contents](#table-of-contents)
